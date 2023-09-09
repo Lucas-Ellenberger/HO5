@@ -1,0 +1,898 @@
+label	col_00	col_01	col_02	col_03	col_04	col_05	col_06	col_07	col_08	col_09	col_10	col_11
+1	565 m^2	0.0719	bioengineering	Computer Engineering, Biotechnology, Computer Game Design, Statistics	308	DOG	34	-0.0333	1375	0.8656	-0.0761	377
+0	851 m^2	0.3185	Applied Mathematics	Human Computer Interaction, Computational Media, Data Science	103	guinea pig	740	-0.0145	595	0.9723	0.7166	712
+1	393 m^2	0.4696	Electrical Engineering	Applied Mathematics	934	pig	577	-0.0725	1340	0.9037	0.238	278
+2	185 m^2	0.7433	Games and Playable Media	Games and Playable Media	868	hamster	927	0.8243	-1037	-0.0086	0.771	62
+0	811 m^2	0.9232	Applied Mathematics	Computer Game Design, Computer Engineering	617	ferret	232	0.3404	454	0.6932	0.6584	-66
+2	-17 m^2	0.8286	Computer Science	Applied Mathematics, Robotics Engineering	1308	bird	357	0.9842	109	0.28	0.5136	80
+1	399 m^2	-0.2393	Bioengineering	Computer Engineering, Computer Science, Biotechnology, Computer Game Design	506	rabbit	598	0.5307	1070	1.5824	0.0228	140
+2	317 m^2	0.4512	Biotechnology	Robotics Engineering	615	bird	641	0.9683	643	0.0732	0.4423	185
+2	-49 m^2	None	Games And Playable Media	Games and Playable Media, Applied Mathematics	960	reptile	1055	0.9693	-232	-0.1366	0.8058	500
+2	194 m^2	0.6786	Computer Science	Robotics Engineering, Games and Playable Media	1555	bird	1095	0.7684	-358	-0.0511	0.7001	441
+2	193 m^2	0.9	Computer Science	Technology and Information Management, Games and Playable Media, Applied Mathematics	945	reptile	627	0.8611	-12	0.0991	0.5936	-351
+2	10 m^2	1.141	Computer Science	Applied Mathematics, Technology and Information Management	760	reptile	343	0.4702	106	0.1066	0.1253	-284
+1	533 m^2	0.2611	Technology and Information Management	Computer Science	540	bird	546	-0.0787	949	0.7384	-0.0243	52
+1	778 m^2	-0.2229	Computer Engineering	Computer Game Design	508	rabbit	544	-0.0713	870	1.0883	0.1662	325
+0	870 m^2	0.6909	Statistics	Computational Media, Natural Language Processing	-122	dog	-13	0.7501	302	0.769	0.6938	600
+1	1181 m^2	0.1056	Computer Engineering	Computer Game Design, Computer Science, Statistics, Computer Engineering	493	dog	427	0.431	675	0.975	-0.1022	296
+2	-461 m^2	0.53	Biotechnology	Robotics Engineering, Applied Mathematics	996	hamster	889	1.2606	392	0.3287	0.8808	None
+2	400 m^2	0.74	Computer Science	Bioinformatics, Natural Language Processing, Data Science, Computational Media, Electrical Engineering	508	bird	903	0.9572	-142	-0.0365	0.5906	-194
+2	110 m^2	0.6757	Bioengineering	Applied Mathematics	895	dog	896	1.0307	239	0.2876	0.5459	505
+0	1165 m^2	0.3163	Computer Game Design	Data Science, Electrical Engineering, Human Computer Interaction, Bioengineering, Computational Media	439	ferret	9	0.3249	1029	0.7499	0.8103	1315
+1	820 m^2	-0.6509	Electrical Engineering	NULL	285	chicken	-41	0.721	1488	0.8738	-0.1253	200
+0	984 m^2	0.532	Data Science	Natural Language Processing	400	ferret	405	0.4745	997	0.3066	?	959
+1	752 m^2	0.2278	Computational Media	Computer Engineering, Computer Science	622	dog	1024	0.034	963	1.3991	-0.0057	313
+2	610 m^2	0.6296	Games and Playable Media	Applied Mathematics	967	bird	900	0.9183	449	0.1916	0.5326	-585
+0	992 m^2	0.2645	Applied Mathematics	Bioinformatics, Electrical Engineering, Human Computer Interaction	-222	fish	n/a	0.4522	168	0.6971	0.8619	5
+1	523 m^2	0.0748	Bioengineering	Computer Science, Biotechnology, Computer Engineering	394	pig	405	-0.0175	540	1.4075	0.1899	878
+2	256 m^2	0.5375	Computer Science	Applied Mathematics	1130	reptile	498	0.4068	-432	-0.2056	0.4851	447
+1	261 m^2	-0.2885	Electrical Engineering	Computer Engineering, Computer Science	351	pig	716	0.0934	1243	0.9922	0.0705	767
+0	741 m^2	0.5408	Natural Language Processing	Human Computer Interaction, Electrical Engineering	281	guinea pig	188	0.6234	520	0.5307	0.8196	17
+1	361 m^2	0.3636	Human Computer Interaction	Computer Game Design, Statistics, Computer Engineering	568	pig	704	-0.0445	768	0.8493	-0.0971	519
+1	882 m^2	0.5064	Electrical Engineering	COMPUTER GAME DESIGN	995	rat	467	0.3274	1145	1.133	0.1673	594
+1	665 m^2	-0.079	Computational Media	Statistics, Computer Game Design	516	dog	183	0.0169	595	0.8913	0.1407	363
+2	392 m^2	1.1578	Games and Playable Media	Applied Mathematics	888	hamster	627	0.9981	92	-0.1701	0.5965	95
+1	436 m^2	0.2105	NULL	Biotechnology, Computer Science	539	dog	195	0.4644	588	1.1746	-0.0472	156
+2	84 m^2	0.5994	Robotics Engineering	Games and Playable Media, Robotics Engineering, Applied Mathematics	550	hamster	631	0.8924	185	0.081	0.7315	254
+2	336 m^2	0.6058	Biotechnology	Games and Playable Media, Applied Mathematics	762	bird	816	0.6872	-688	-0.0099	0.745	219
+0	896 m^2	0.6281	Natural Language Processing	Data Science, Electrical Engineering, Bioinformatics, Human Computer Interaction	92	guinea pig	355	-0.1835	-22	0.6014	0.9984	975
+2	547 m^2	0.5031	Robotics Engineering	Technology and Information Management, Robotics Engineering, Games and Playable Media	1313	bird	901	1.4759	-23	0.5073	0.8681	241
+0	882 m^2	0.3337	Statistics	Natural Language Processing, Bioengineering	?	ferret	223	0.4502	-138	0.2797	1.1394	771
+0	1365 m^2	0.6876	Statistics	None	158	ferret	N/A	0.6165	-99	1.0513	1.0458	558
+1	689 m^2	0.194	Data Science	Computer Game Design, Biotechnology	153	rabbit	333	0.1877	1168	1.0255	0.1518	n/a
+1	475 m^2	-0.0492	Computational Media	Computer Science, Statistics, Computer Engineering, Computer Game Design	448	rabbit	104	0.0179	917	1.4201	0.1835	504
+1	930 m^2	0.2054	Bioengineering	Computer Science	440	chicken	437	0.3235	1170	0.3529	0.4542	519
+0	756 m^2	?	NULL	Natural Language Processing	455	fish	268	0.3832	337	0.4592	0.8917	557
+0	1081 m^2	0.606	Natural Language Processing	Computational Media	-132	ferret	391	0.8153	-244	1.3718	0.865	1290
+1	649 m^2	0.1301	Human Computer Interaction	Computer Engineering, Computer Game Design	760	chicken	589	0.2276	1444	1.067	-0.0149	-236
+1	528 m^2	-0.0925	Technology and Information Management	Games and Playable Media	756	rabbit	533	0.0344	1028	0.9409	0.1579	241
+2	87 m^2	0.5425	Biotechnology	Technology and Information Management, Applied Mathematics	822	reptile	641	0.8257	-216	-0.0706	0.7314	521
+1	902 m^2	0.646	Bioengineering	Computer Engineering, Biotechnology, Computer Science	581	Cat	347	0.2603	792	0.791	-0.3248	575
+0	953 m^2	0.3099	Computer Game Design	Electrical Engineering, Computational Media, Bioengineering, Human Computer Interaction, Data Science, Natural Language Processing	-50	fish	-20	0.2022	567	1.0915	0.3709	516
+1	467 m^2	-0.2348	Technology and Information Management	Statistics	762	guinea pig	363	0.2301	657	0.6391	0.282	144
+1	359 m^2	0.1325	Computational Media	Computer Engineering, Biotechnology, Statistics	697	cat	305	0.5122	1527	0.7671	0.0353	727
+1	366 m^2	0.1783	Computer Engineering	Computer Science, Computer Game Design	284	rabbit	705	-0.0034	1235	1.2494	0.2988	491
+1	397 m^2	0.296	Computational Media	Biotechnology, Computer Engineering, Computer Science	592	dog	178	0.9076	833	0.6546	0.2344	704
+0	649 m^2	0.3971	Statistics	Natural Language Processing, Bioengineering, Computational Media	184	guinea pig	179	0.3361	341	0.586	0.8219	811
+2	241 m^2	1.0009	Biotechnology	None	862	hamster	1063	0.8963	999	-0.6328	0.8331	697
+0	922 m^2	0.6497	Natural Language Processing	Natural Language Processing, Bioinformatics, Data Science, Human Computer Interaction, Bioengineering	86	rat	179	0.4478	350	0.6547	1.1543	321
+1	118 m^2	0.794	Technology and Information Management	Statistics, Computer Science	591	Fish	181	0.5108	782	1.1256	-0.4196	457
+2	105 m^2	0.8362	Robotics Engineering	Technology and Information Management, Games and Playable Media, Applied Mathematics	923	hamster	165	0.8655	149	0.573	0.3698	-218
+1	987 m^2	0.3385	Bioengineering	Computer Science, Statistics	159	rabbit	411	0.1319	643	1.4767	0.5714	383
+2	435 m^2	0.6391	Games and Playable Media	Technology and Information Management, Games and Playable Media, Applied Mathematics	696	hamster	855	1.1092	173	-0.1814	0.6108	43
+0	832 m^2	0.0285	Computer Game Design	Data Science, Computational Media	418	rat	334	0.5916	484	0.5822	0.7885	329
+2	448 m^2	0.7592	Robotics Engineering	Games and Playable Media	574	bird	517	1.1931	816	-0.0107	0.8636	0
+0	573 m^2	0.9718	Bioengineering	Technology and Information Management	127	fish	225	0.5123	962	0.8827	0.7422	676
+0	730 m^2	0.9135	Computer Game Design	Bioinformatics, Computational Media, Bioengineering, Natural Language Processing	181	guinea pig	165	0.3417	-200	0.6274	0.8726	889
+2	-212 m^2	0.6103	Computer Science	Robotics Engineering, Games and Playable Media	611	hamster	401	0.7766	394	-0.1317	0.6983	342
+1	440 m^2	-0.4326	Technology and Information Management	Computer Game Design, Biotechnology, Computer Science	1128	rat	383	0.2231	1230	0.8178	-0.223	641
+2	-230 m^2	0.7028	Biotechnology	Biotechnology, Computer Game Design	911	bird	877	0.7217	612	0.2103	0.7953	198
+1	444 m^2	-0.2442	electrical engineering	Computer Engineering, Statistics, Biotechnology, Computer Game Design	731	rat	501	0.0379	1161	0.9929	0.2043	802
+1	491 m^2	-0.0916	Data Science	Statistics, Biotechnology, Computer Game Design	613	Chicken	142	0.1365	1732	0.8979	0.3275	308
+0	1289 m^2	1.065	Technology and Information Management	Electrical Engineering, Bioengineering, Bioinformatics	-37	rat	-113	0.2969	310	0.8597	0.675	625
+0	948 m^2	0.084	Natural Language Processing	Applied Mathematics, Games and Playable Media	98	rat	529	0.5021	1223	0.0672	0.7992	370
+1	746 m^2	0.0021	Electrical Engineering	Computer Game Design, Computer Science, Computer Engineering, Biotechnology	791	cat	67	0.5581	1302	0.909	0.4273	432
+2	-71 m^2	0.434	Games and Playable Media	Robotics Engineering, Technology and Information Management	956	hamster	367	0.8538	-80	0.1279	0.8255	884
+1	640 m^2	0.1216	Human Computer Interaction	Statistics, Computer Game Design, Biotechnology, Computer Engineering	648	dog	468	-0.2285	1368	0.8884	-0.126	787
+1	523 m^2	0.2138	Human Computer Interaction	Data Science	527	chicken	500	0.1686	993	1.2391	0.4764	878
+1	879 m^2	-0.1084	Bioinformatics	Computer Engineering, Statistics, Biotechnology, Computer Science	425	CHICKEN	-40	0.0412	430	1.0433	-0.3394	317
+2	-155 m^2	0.8424	Games and Playable Media	Games and Playable Media, Applied Mathematics, Robotics Engineering	766	reptile	664	0.9344	68	0.1306	0.4588	-344
+1	838 m^2	0.0331	Technology and Information Management	Statistics	904	pig	414	n/a	744	0.9564	-0.3141	201
+2	181 m^2	0.9037	Computer Science	Games and Playable Media, Robotics Engineering, Technology and Information Management	1084	hamster	1017	0.8662	43	0.2005	0.4153	478
+2	769 m^2	0.633	Robotics Engineering	Games and Playable Media, Robotics Engineering, Technology and Information Management	818	hamster	420	0.7688	-20	0.3059	0.8609	-382
+1	873 m^2	-0.1835	Electrical Engineering	Computer Game Design, Statistics, Biotechnology, Computer Engineering	664	dog	797	0.3209	1145	0.729	-0.0757	242
+0	1156 m^2	0.6013	Statistics	Biotechnology, Computer Engineering, Computer Science, Computer Game Design	9	ferret	85	0.4418	-24	0.7506	0.912	825
+2	-15 m^2	0.8259	Biotechnology	Bioinformatics, Computational Media, Natural Language Processing, Human Computer Interaction	681	bird	281	0.7119	492	0.1631	0.8464	52
+0	1697 m^2	0.2792	Computer Game Design	Computational Media, Electrical Engineering, Natural Language Processing	139	rat	391	0.1312	-339	0.2688	0.9757	426
+1	805 m^2	0.0035	Biotechnology	Biotechnology, Computer Science, Statistics, Computer Engineering	805	dog	519	-0.23	1014	0.9156	-0.1572	10
+2	-65 m^2	0.8471	Computer Science	NULL	904	bird	623	0.7443	-142	-0.4079	0.7836	296
+1	884 m^2	0.3711	Computer Engineering	Computer Engineering, Biotechnology	464	pig	311	-0.007	714	0.1076	0.4688	153
+1	242 m^2	0.1149	Data Science	Computer Game Design, Statistics, Computer Science, Computer Engineering	657	rabbit	62	0.2008	1045	0.7402	-0.1205	428
+2	394 m^2	0.5083	Natural Language Processing	Games and Playable Media, Applied Mathematics, Technology and Information Management	918	rabbit	1186	1.1436	496	0.1081	0.9915	-92
+0	1129 m^2	0.4158	Applied Mathematics	Data Science, Computational Media, Natural Language Processing, Human Computer Interaction, Electrical Engineering	434	ferret	561	-0.007	418	0.7627	0.926	1004
+0	554 m^2	0.2851	Computer Game Design	Electrical Engineering	211	rat	343	0.57	1059	0.5434	1.2852	272
+2	434 m^2	1.0767	Computer Game Design	Computer Game Design	794	reptile	754	0.9137	-96	0.0311	0.6883	333
+0	1003 m^2	0.6749	Computer Game Design	Electrical Engineering, Natural Language Processing, Bioengineering, Bioinformatics, Computational Media, Data Science	-17	fish	-18	0.2273	273	0.4738	1.0587	431
+0	1181 m^2	-0.0898	Applied Mathematics	Natural Language Processing	-391	fish	-62	-0.1485	377	0.4899	0.9943	762
+1	387 m^2	0.27	Human Computer Interaction	Bioinformatics, Electrical Engineering	571	chicken	462	0.4869	1050	0.4231	0.528	633
+2	22 m^2	0.543	Robotics Engineering	Applied Mathematics, Games and Playable Media	1036	fish	627	0.9691	123	0.0509	0.8138	259
+2	140 m^2	1.1613	Robotics Engineering	Games and Playable Media, Technology and Information Management	1042	HAMSTER	1134	1.4312	140	0.0938	0.2991	88
+0	1383 m^2	0.2866	Natural Language Processing	Bioengineering, Natural Language Processing, Electrical Engineering, Computational Media	-29	fish	-91	0.6413	657	0.8575	1.06	1163
+0	1281 m^2	0.6035	Computer Game Design	Games and Playable Media, Robotics Engineering	17	ferret	29	0.4308	632	0.3767	0.5984	996
+0	252 m^2	0.4365	Robotics Engineering	Bioengineering	127	ferret	376	0.4518	261		0.9902	877
+0	898 m^2	0.4637	Natural Language Processing	Electrical Engineering, Computational Media, Human Computer Interaction, Bioinformatics, Bioengineering, Data Science	380	guinea pig	-134	0.5145	548	0.4593	0.5157	1091
+0	648 m^2	0.9863	Statistics	Applied Mathematics	-336	ferret	484	0.6248	292	1.2836	0.8144	1045
+1	929 m^2	0.4818	NULL	Computer Game Design, Biotechnology	222	cat	775	0.1771	N/A	0.7456	0.1811	-14
+0	742 m^2	0.7089	Games and Playable Media	Bioengineering, Human Computer Interaction, Natural Language Processing, Electrical Engineering, Data Science, Computational Media	258	guinea pig	156	0.3388	288	0.4777	0.8591	1296
+2	409 m^2	0.5459	Games and Playable Media	Robotics Engineering	666	hamster	1013	0.5796	-267	-0.2617	0.4027	-269
+2	-170 m^2	0.5484	Games and Playable Media	Applied Mathematics, Games and Playable Media	1006	reptile	511	0.9136	22	0.4052	0.3859	330
+1	544 m^2	-0.3201	ELECTRICAL ENGINEERING	Computer Game Design, Computer Science, Computer Engineering	411	dog	360	-0.2574	1135	1.3682	0.1721	63
+0	571 m^2	0.7292	Statistics	Data Science, Electrical Engineering, Bioengineering, Human Computer Interaction, Computational Media	-192	rat	-131	0.1916	455	0.9891	1.2373	1041
+1	571 m^2	0.056	Computer Engineering	Computer Engineering	104	CAT	377	0.699	595	0.6127	0.3185	283
+2	67 m^2	0.8595	GAMES AND PLAYABLE MEDIA	Games and Playable Media, Applied Mathematics, Robotics Engineering	1221	reptile	1035	0.5246	278	0.1851	0.4986	1227
+1	579 m^2	0.0309	Bioengineering	Statistics, Computer Science, Biotechnology	541	dog	469	0.0799	1048	0.4711	0.0743	55
+1	526 m^2	0.1502	technology and information management	Computer Science	755	rabbit	435	0.1881	1264	0.8713	0.0084	107
+0	1243 m^2	0.5246	Computer Science	Electrical Engineering, Human Computer Interaction, Natural Language Processing, Bioengineering, Computational Media, Bioinformatics	29	ferret	518	0.032	176	0.828	1.0247	921
+2	-61 m^2	0.6373	Robotics Engineering	Technology and Information Management, Robotics Engineering, Applied Mathematics	733	hamster	837	0.9892	84	0.1654	0.1938	531
+0	984 m^2	0.2435	Computer Game Design	Computational Media, Bioinformatics	286	fish	203	0.4853	619	0.716	1.3536	923
+1	771 m^2	0.3086	Computer Engineering	Biotechnology, Computer Game Design, Statistics	1024	cat	211	0.383	1287	0.7125	0.1348	-154
+2	-164 m^2	0.1522	Robotics Engineering	Applied Mathematics, Games and Playable Media, Technology and Information Management	1152	hamster	801	0.6389	-525	0.0737	0.4316	-404
+0	803 m^2	0.7237	Applied Mathematics	Natural Language Processing, Data Science, Computational Media, Human Computer Interaction	274	guinea pig	-64	0.2998	-78	0.5571	1.2249	743
+1	565 m^2	0.8177	Data Science	Computer Engineering, Biotechnology	748	rabbit	570	0.3085	1508	1.1052	-0.3283	-266
+1	664 m^2	-0.0326	Data Science	Computer Engineering, Statistics, Computer Game Design, Biotechnology	567	dog	-132	0.102	1742	1.3222	0.1774	359
+1	807 m^2	-0.0141	Computer Engineering	Biotechnology	743	cat	623	0.5838	937	0.6961	0.5254	181
+0	898 m^2	0.3197	Applied Mathematics	Bioinformatics, Electrical Engineering, Bioengineering, Computational Media, Data Science, Human Computer Interaction	-83	guinea pig	207	0.7312	744	0.8226	0.8669	165
+0	1368 m^2	0.6901	Human Computer Interaction	Natural Language Processing, Bioengineering, Electrical Engineering, Bioinformatics, Human Computer Interaction, Data Science	-172	ferret	476	0.4647	147	0.2728	0.7999	1041
+0	944 m^2	0.256	rOBOTICS eNGINEERING	NATURAL LANGUAGE PROCESSING, BIOENGINEERING, ELECTRICAL ENGINEERING	83	fish	232	0.3014	-110	0.7843	0.7029	840
+2	270 m^2	0.6925	Robotics Engineering	technology and information management, games and playable media	1071	hamster	928	0.5713	200	0.0372	0.95	271
+1	501 m^2	0.5852	Computer Engineering	Computer Engineering	890	dog	n/a	0.3553	1338	1.1271	-0.1568	511
+1	202 m^2	0.3881	None	Biotechnology, Statistics	1141	chicken	469	-0.1086	1015	1.1712	0.1536	-408
+1	474 m^2	0.1745	Computer Engineering	Computer Game Design, Biotechnology, Computer Engineering	237	pig	409	0.4376	1481	1.0831	-0.1909	286
+2	-284 m^2	0.4154	Robotics Engineering	Applied Mathematics, Games and Playable Media	1122	hamster	735	0.8899	207	0.2372	0.806	-530
+1	209 m^2	0.4823	Bioinformatics	Applied Mathematics, Robotics Engineering, Technology and Information Management	644	dog	221	0.0538	1140	0.9223	0.6469	335
+0	682 m^2	-0.0649	Natural Language Processing	Human Computer Interaction, Bioinformatics	-59	ferret	286	0.5084	52	0.8681	1.1782	425
+0	947 m^2	0.8008	Applied Mathematics	Human Computer Interaction, Natural Language Processing, Computational Media	-101	rat	-2	0.1614	59	0.2954	1.0619	848
+0	883 m^2	0.4755	Natural Language Processing	data science, bioinformatics, electrical engineering, human computer interaction	373	pig	247	0.9713	385	0.8223	1.0113	896
+0	1211 m^2	0.457	Natural Language Processing	Human Computer Interaction, Electrical Engineering, Data Science, Natural Language Processing, Bioinformatics	45	Guinea Pig	291	0.2509	744	0.3015	0.7979	617
+1	649 m^2	0.4871	Data Science	Biotechnology, Computer Game Design, Computer Engineering	421	chicken	654	0.4179	1152	1.0856	0.0507	1116
+2	131 m^2	0.7883	games and playable media	Applied Mathematics	808	reptile	900	0.8263	61	0.0554	0.4056	366
+2	145 m^2	0.465	Robotics Engineering	Robotics Engineering, Games and Playable Media	866	bird	514	1.0155	-18	-0.0791	0.7881	-189
+0	907 m^2	0.3408	Computer Game Design	Data Science, Electrical Engineering, Computational Media	93	ferret	446	0.0627	4	0.9833	?	1093
+0	1049 m^2	0.8358	Computer Game Design	Computational Media, Bioengineering, Human Computer Interaction	306	ferret	384	0.6264	639	0.351	1.0905	502
+0	901 m^2	0.0496	Computer Game Design	Bioinformatics, Human Computer Interaction, Electrical Engineering, Natural Language Processing, Bioengineering	195	fish	275	0.1954	231	0.7191	0.7541	1025
+2	109 m^2	1.0148	Computer Science	Technology and Information Management	915	pig	579	1.52	None	0.2467	0.7843	-231
+1	467 m^2	0.3255	Data Science	Applied Mathematics	380	dog	503	-0.0383	559	1.1407	0.2227	463
+2	-45 m^2	0.5407	Robotics Engineering	Games and Playable Media, Technology and Information Management	610	reptile	485	0.9998	-479	0.2568	0.6298	-309
+0	888 m^2	0.5238	n/a	Games and Playable Media, Technology and Information Management, Robotics Engineering	279	rat	294	0.5485	418	0.7134	0.9662	890
+0	1013 m^2	0.3433	Applied Mathematics	Computational Media, Data Science, Electrical Engineering	-171	guinea pig	239	0.4928	-95	0.7242	0.9301	493
+0	739 m^2	0.36	Computer Game Design	Data Science, Bioengineering, Computational Media	-378	guinea pig	-193	0.5099	-471	0.6082	0.6062	1038
+2	627 m^2	0.6138	Electrical Engineering	Robotics Engineering, Games and Playable Media, Applied Mathematics	1067	bird	1031	0.6886	85	0.2404	0.6568	32
+2	257 m^2	0.553	Biotechnology	Games and Playable Media, Robotics Engineering, Applied Mathematics	1030	hamster	1032	1.56	1033	0.3915	0.7956	444
+2	236 m^2	0.5005	Biotechnology	APPLIED MATHEMATICS	813	hamster	342	0.891	172	0.1366	0.5637	707
+2	31 m^2	0.582	Computer Science	Applied Mathematics	739	reptile	800	1.2269	218	-0.2731	0.1961	10
+0	771 m^2	0.8251	Applied Mathematics	Data Science, Natural Language Processing, Bioinformatics, Human Computer Interaction, Computational Media, Bioengineering	-62	guinea pig	90	0.2295	-219	0.5915	0.997	463
+2	314 m^2	-0.1032	Robotics Engineering	Games and Playable Media, Robotics Engineering, Applied Mathematics	1102	bird	821	1.2159	409	0.1856	0.5082	-49
+1	431 m^2	-0.1039	Computer Engineering	Computer Engineering	394	dog	416	0.1133	1573	0.6643	-0.1571	96
+1	391 m^2	-0.2578	Technology and Information Management	Computer Game Design, Statistics, Computer Engineering	274	DOG	101	0.3145	1355	1.1677	0.2642	-37
+0	1082 m^2	0.2495	Natural Language Processing	Bioengineering, Human Computer Interaction, Natural Language Processing, Computational Media, Data Science	320	ferret	591	0.457	87	0.5505	0.7809	1076
+1	649 m^2	0.1016	Bioinformatics	Computer Science, Computer Game Design, Statistics, Computer Engineering	893	chicken	388	0.3212	1015	0.9023	0.0232	751
+0	1164 m^2	0.8738	Applied Mathematics	Natural Language Processing, Human Computer Interaction, Data Science	171	rat	514	-0.0167	558	0.8874	1.2956	1417
+1	335 m^2	0.0332	Data Science	Statistics, Computer Engineering, Biotechnology	608	fish	368	None	794	1.0529	-0.0079	396
+0	1399 m^2	0.3805	Natural Language Processing	Natural Language Processing, Computational Media, Bioengineering	-229	FERRET	7	0.6538	739	0.7871	0.5766	782
+0	1492 m^2	0.3926	Natural Language Processing	Applied Mathematics, Robotics Engineering	348	ferret	290	0.3267	-7	0.5878	0.9628	1115
+2	341 m^2	0.3973	Statistics	Computer Science, Computer Game Design, Statistics, Biotechnology	1069	hamster	618	1.3291	18	0.2931	0.6046	14
+0	1694 m^2	0.466	Biotechnology	Data Science, Computational Media, Natural Language Processing	97	guinea pig	351	0.2364	-286	0.6617	1.0616	364
+1	811 m^2	-0.2204	Data Science	Computer Engineering, Biotechnology	429	dog	411	0.0684	802	0.865	-0.097	363
+1	822 m^2	0.5492	Data Science	Computer Science, Computer Engineering	595	hamster	401	0.0263	366	1.0689	0.0778	-35
+0	882 m^2	0.4199	Applied Mathematics	Bioinformatics, Electrical Engineering, Human Computer Interaction, Bioengineering, Data Science	-48	guinea pig	79	0.5574	229	0.2798	1.0788	936
+0	1136 m^2	0.5665	Applied Mathematics	Computational Media, Bioinformatics, Human Computer Interaction, Data Science, Bioengineering	-121	fish	366	0.7274	390	0.9353	0.8619	748
+2	181 m^2	0.2836	Robotics Engineering	Games and Playable Media, Technology and Information Management, Robotics Engineering	790	chicken	791	0.5673	404	0.1751	0.6974	8
+1	528 m^2	0.2211	Technology and Information Management	Computer Engineering, Computer Game Design, Statistics, Biotechnology	801	pig	557	0.0059	1415	1.1693	0.4027	490
+1	55 m^2	-0.0102	Human Computer Interaction	Biotechnology, Computer Science	513	cat	114	0.1623	1296	0.8466	-0.2088	791
+1	426 m^2	N/A	Technology and Information Management	Computer Game Design	685	rabbit	633	0.1233	830	0.7673	0.182	426
+0	1063 m^2	0.5525	Computer Game Design	bIOTECHNOLOGY, cOMPUTER sCIENCE	87	guinea pig	350	0.366	-306	0.3377	0.7491	682
+2	322 m^2	1.1208	Robotics Engineering	Applied Mathematics, Robotics Engineering	484	bird	892	0.7768	-397	-0.2358	0.834	438
+0	568 m^2	0.7005	Statistics	Electrical Engineering, Human Computer Interaction	526	fish	266	0.2836	270	0.4431	0.6605	611
+2	72 m^2	0.9379	Robotics Engineering	Robotics Engineering, Applied Mathematics	1089	bird	676	0.8002	10	0.3104	0.4869	783
+1	783 m^2	-0.0933	Data Science	Biotechnology, Computer Game Design, Statistics	523	rabbit	205	0.3025	495	1.0468	0.1388	301
+1	594 m^2	-0.0989	Bioinformatics	Bioinformatics, Data Science	611	rabbit	-176	0.093	1083	1.1438	0.2177	461
+0	625 m^2	0.576	Applied Mathematics	Natural Language Processing	535	guinea pig	451	0.6527	578	0.5508	1.1203	1084
+0	1060 m^2	0.773	Computer Game Design	Data Science	109	FERRET	450	0.5835	660	0.7962	0.6594	302
+2	200 m^2	0.7759	Computer Science	Computer Engineering, Statistics, Biotechnology	660	reptile	802	0.6888	591	0.4134	0.786	0
+0	678 m^2	0.7445	Computer Game Design	Natural Language Processing, Computational Media, Electrical Engineering, Bioinformatics	-210	fish	539	0.6282	689	0.9502	1.2284	933
+1	514 m^2	0.319	Data Science	Computer Science, Statistics, Computer Engineering	840	dog	326	0.332	389	1.1529	0.1883	423
+2	246 m^2	0.6326	Computer Science	Applied Mathematics	N/A	reptile	982	1.329	31	0.2407	0.084	-74
+1	576 m^2	-0.4214	Human Computer Interaction	Computer Engineering, Biotechnology, Computer Science	477	pig	125	0.4965	520	1.1936	0.137	177
+0	1455 m^2	-0.042	statistics	Bioinformatics	148	cat	186	0.6308	853	0.7395	1.0078	483
+0	893 m^2	0.5809	Computer Game Design	Bioinformatics, Computational Media, Natural Language Processing, Data Science	33	rat	104	0.4517	445	0.9599	0.3683	676
+2	20 m^2	0.3407	Computer Science	Robotics Engineering	794	bird	722	0.8784	365	0.4183	0.8045	-30
+1	758 m^2	0.1861	Computer Engineering	Computer Engineering	428	cat	273	0.3265	1220	0.4504	0.1087	472
+2	-86 m^2	0.8461	Biotechnology	Robotics Engineering, Technology and Information Management, Applied Mathematics	659	reptile	414	1.1414	244	-0.091	0.4053	297
+0	772 m^2	0.2703	Computer Game Design	Bioengineering, Bioinformatics, Data Science, Computational Media	-112	fish	92	0.2491	614	0.8347	1.2741	650
+1	980 m^2	-0.2386	Human Computer Interaction	Statistics, Computer Science	838	chicken	181	0.4796	1234	1.1421	0.0939	-75
+1	574 m^2	-0.3006	Human Computer Interaction	Biotechnology	548	cat	167	0.3888	935	0.6505	0.0207	291
+1	1133 m^2	-0.2547	Computational Media	Statistics, Biotechnology, Computer Game Design	617	rabbit	399	-0.4912	1499	?	0.3091	418
+2	139 m^2	0.5295	Biotechnology	cOMPUTER eNGINEERING, cOMPUTER gAME dESIGN, sTATISTICS, bIOTECHNOLOGY	1151	reptile	791	1.0298	558	0.3071	0.644	440
+0	692 m^2	0.7792	Computer Game Design	Human Computer Interaction, Data Science	108	rat	402	0.211	333	0.7629	0.6325	921
+0	982 m^2	0.2576	Statistics	Computational Media, Electrical Engineering	-316	guinea pig	-219	0.6263	244	1.112	0.8424	281
+2	33 m^2	0.5234	Robotics Engineering	Games and Playable Media	891	bird	655	0.9245	144	0.0087	0.5521	354
+2	-96 m^2	0.6046	Biotechnology	Games and Playable Media	881	reptile	762	1.3966	567	0.3693	0.7698	374
+0	1346 m^2	0.6585	Computer Game Design	Bioinformatics, Human Computer Interaction, Computational Media	124	rat	120	0.3009	328	0.398	0.8424	848
+0	862 m^2	0.3707	Computer Game Design	Bioengineering, Human Computer Interaction, Data Science, Bioinformatics, Electrical Engineering	379	ferret	326	0.3299	425	0.5348	0.7679	526
+1	321 m^2	-0.0377	Human Computer Interaction	Technology and Information Management, Games and Playable Media, Applied Mathematics	652	?	184	0.2994	984	1.0133	0.4053	726
+0	1071 m^2	0.8946	Computer Game Design	Computational Media	495	rat	197	0.8248	560	0.8814	0.4067	1173
+2	530 m^2	0.2651	Statistics	Games and Playable Media, Applied Mathematics, Technology and Information Management	1140	hamster	764	0.8317	572	-0.1519	0.6769	454
+1	541 m^2	0.2003	Technology and Information Management	Biotechnology, Computer Game Design, Computer Science	284	rabbit	500	0.4605	695	0.8081	0.1085	865
+2	403 m^2	0.1214	Biotechnology	Technology and Information Management	1034	bird	284	0.9627	128	-0.0906	0.3474	-116
+2	4 m^2	0.6447	Biotechnology	tECHNOLOGY AND iNFORMATION mANAGEMENT, gAMES AND pLAYABLE mEDIA	636	fish	922	1.4568	29	0.059	1.1355	233
+1	663 m^2	-0.0035	Electrical Engineering	Statistics, Computer Science, Computer Engineering, Computer Game Design	510	chicken	387	-0.0635	565	0.5101	0.3598	523
+1	536 m^2	0.2293	Electrical Engineering	Computer Science, Computer Engineering, Computer Game Design	517	rabbit	111	0.3689	937	1.2304	0.3309	1144
+1	579 m^2	-0.5516	N/A	biotechnology, computer game design, computer engineering	343	cat	584	-0.3304	747	0.9433	0.0951	604
+1	894 m^2	-0.194	Electrical Engineering	Statistics, Biotechnology, Computer Game Design, Computer Engineering	676	rabbit	480	-0.3652	1153	0.9542	0.2069	512
+0	836 m^2	0.5626	Natural Language Processing	Technology and Information Management	125	guinea pig	98	0.3501	149	0.7841	?	359
+1	370 m^2	0.1386	Bioinformatics	Biotechnology, Statistics, Computer Game Design, Computer Science	756	pig	589	-0.0644	1115	1.1702	0.1509	262
+2	-207 m^2	0.3198	Biotechnology	Computer Science, Statistics, Biotechnology	782	hamster	742	1.0912	-311	0.1732	0.223	208
+1	809 m^2	-0.253	Technology and Information Management	Computer Engineering, Computer Science	986	cat	-66	-0.2608	1384	1.1478	-0.0826	549
+2	194 m^2	1.0959	Games and Playable Media	tECHNOLOGY AND iNFORMATION mANAGEMENT, rOBOTICS eNGINEERING	862	hamster	856	1.2726	16	0.1085	0.6989	-115
+0	1085 m^2	0.5226	Applied Mathematics	Electrical Engineering, Natural Language Processing, Data Science, Computational Media, Bioengineering, Human Computer Interaction	-57	rat	109	0.2796	42	0.945	0.7759	884
+2	17 m^2	0.7382	Games and Playable Media	technology and information management	983	bird	485	0.5887	-80	0.3459	1.0213	-124
+2	-43 m^2	0.742	Robotics Engineering	Robotics Engineering, Games and Playable Media, Technology and Information Management	793	bird	809	1.2582	132	-0.3199	0.8864	-261
+0	1372 m^2	0.5704	Applied Mathematics	human computer interaction, natural language processing	254	bird	246	0.4671	459	0.5449	0.7732	461
+2	-237 m^2	0.7636	Robotics Engineering	Computer Game Design, Biotechnology, Computer Science, Computer Engineering	812	Rabbit	764	0.3805	481	-0.0409	0.9142	-72
+0	821 m^2	-0.032	Computer Game Design	Human Computer Interaction, Natural Language Processing, Electrical Engineering, Data Science, Bioengineering, Computational Media	-267	fish	-35	0.2397	215	0.4503	0.8718	780
+2	312 m^2	0.7885	Robotics Engineering	Applied Mathematics, Games and Playable Media	880	reptile	871	0.6116	4	-0.1873	-0.1771	-58
+1	429 m^2	0.3915	None	Statistics	591	dog	287	0.0335	337	0.8829	0.258	409
+0	1566 m^2	0.4547	Statistics	Data Science, Natural Language Processing, Bioinformatics, Electrical Engineering	-474	fish	563	0.7203	466	0.6274	1.0742	999
+1	821 m^2	-0.2112	Bioinformatics	Computer Game Design, Statistics, Biotechnology	762	rabbit	493	0.1629	738	0.9842	0.5449	973
+0	897 m^2	0.4525	Applied Mathematics	Computational Media	-90	fish	261	0.2807	70	0.8669	0.742	230
+0	917 m^2	0.5026	Applied Mathematics	Data Science	388	rat	242	0.4083	447	0.4883	1.1465	431
+0	974 m^2	0.7369	Computer Game Design	Data Science, Bioinformatics, Human Computer Interaction	85	rat	347	0.1599	-390	0.9152	0.7747	1048
+2	250 m^2	0.4626	Biotechnology	Robotics Engineering, Technology and Information Management	869	reptile	809	0.8311	78	0.7118	0.7147	-202
+2	270 m^2	0.7448	Robotics Engineering	Computer Engineering, Statistics, Biotechnology, Computer Game Design	-39	reptile	959	1.1397	-96	-0.3033	0.9312	542
+2	-101 m^2	0.5435	Robotics Engineering	Technology and Information Management, Applied Mathematics	809	bird	1090	1.3191	412	-0.1625	0.9507	89
+0	859 m^2	0.4608	Computer Game Design	Natural Language Processing, Data Science, Bioengineering	17	guinea pig	139	0.1667	454	0.7888	0.4025	591
+1	276 m^2	0.0197	Bioinformatics	Computer Game Design, Computer Engineering	670	rabbit	193	0.5721	1001	1.1358	0.6749	207
+1	237 m^2	0.1313	Electrical Engineering	Computer Game Design	528	rabbit	580	0.2483	945	0.8802	-0.5811	572
+1	796 m^2	-0.0245	Technology and Information Management	Computer Game Design, Biotechnology, Computer Engineering, Computer Science	734	pig	506	-0.1043	1400	0.641	0.2929	144
+2	183 m^2	0.3455	Technology and Information Management	Robotics Engineering	809	bird	605	0.5252	751	0.0244	0.6211	34
+1	274 m^2	0.6938	Data Science	Statistics, Computer Game Design, Biotechnology	380	dog	322	0.1789	1010	0.9274	0.0338	?
+1	507 m^2	0.3625	Computer Game Design	Biotechnology, Statistics	916	pig	244	0.3138	445	0.8922	0.0131	614
+2	-110 m^2	0.6494	Computer Science	Robotics Engineering	800	bird	763	0.7655	-159	0.0004	0.6393	182
+0	861 m^2	0.4559	Applied Mathematics	Natural Language Processing, Human Computer Interaction, Computational Media, Electrical Engineering	-33	guinea pig	-32	0.3967	-108	0.4317	0.6252	1018
+0	1141 m^2	0.4831	Statistics	Computer Engineering	388	ferret	261	0.4123	1125	0.8374	1.454	951
+0	949 m^2	0.5963	Computer Game Design	Data Science, Electrical Engineering	380	fish	-153	0.5535	555	0.4776	1.0002	590
+0	951 m^2	0.5118	Natural Language Processing	Bioengineering, Bioinformatics, Human Computer Interaction	212	fish	452	0.5785	324	0.8079	0.7492	967
+1	556 m^2	0.0567	Electrical Engineering	Computer Engineering, Statistics	299	cat	295	-0.1499	1438	0.9119	0.684	330
+1	410 m^2	0.5333	Data Science	Computer Science, Biotechnology	647	rabbit	264	0.0783	947	0.7757	0.1056	493
+1	861 m^2	0.1099	Data Science	Computer Engineering, Computer Science, Computer Game Design	419	dog	-33	0.1952	1070	0.8322	0.2609	611
+0	1091 m^2	0.2528	Computer Game Design	Bioengineering, Bioinformatics, Data Science, Computational Media	423	ferret	419	0.529	164	0.9315	0.8478	501
+2	401 m^2	0.4564	Natural Language Processing	Applied Mathematics	617	bird	977	1.0311	?	-0.0552	0.4751	-311
+2	1 m^2	0.585	Games and Playable Media	Applied Mathematics, Technology and Information Management, Games and Playable Media	893	REPTILE	877	0.9926	339	0.3176	0.735	285
+0	1111 m^2	0.3859	Computer Game Design	Applied Mathematics, Robotics Engineering	4	guinea pig	495	0.4888	115	0.7914	0.1546	461
+0	729 m^2	-0.1693	Statistics	Human Computer Interaction, Natural Language Processing, Electrical Engineering, Bioinformatics	-83	rat	301	0.1516	468	0.5228	1.2237	891
+0	1048 m^2	0.8876	Natural Language Processing	Bioengineering, Computational Media, Natural Language Processing	35	fish	59	0.6544	130	0.7428	1.21	1038
+2	95 m^2	0.5907	Robotics Engineering	Games and Playable Media, Applied Mathematics	785	bird	817	1.2122	123	-0.1081	0.4531	-108
+0	1268 m^2	0.2055	Computer Game Design	Electrical Engineering, Computational Media, Human Computer Interaction, Natural Language Processing	236	N/A	210	0.0989	-68	0.9307	0.7874	1171
+0	736 m^2	0.4499	Technology and Information Management	Applied Mathematics, Technology and Information Management, Robotics Engineering	-24	guinea pig	256	0.0607	355	0.9866	0.666	1033
+1	638 m^2	-0.3383	Computer Engineering	Statistics	480	rabbit	501	0.3872	1417	1.2201	0.2334	365
+2	-178 m^2	0.8827	Robotics Engineering	Technology and Information Management, Robotics Engineering, Applied Mathematics	441	reptile	890	0.7821	-318	0.2176	0.8322	439
+0	911 m^2	0.5931	Applied Mathematics	Electrical Engineering, Human Computer Interaction, Bioinformatics, Natural Language Processing, Bioengineering, Computational Media	-340	rat	215	0.6339	9	0.4302	0.7164	961
+2	164 m^2	0.6094	Robotics Engineering	Robotics Engineering, Technology and Information Management	689	bird	609	0.4304	366	0.3194	0.7307	N/A
+2	107 m^2	0.6373	Biotechnology	Robotics Engineering, Technology and Information Management, Applied Mathematics	None	hamster	1013	0.2055	-98	0.1844	0.8701	124
+0	780 m^2	0.0638	Natural Language Processing	Bioinformatics, Bioengineering, Computational Media	-216	ferret	60	0.1065	-570	0.6857	0.9518	947
+0	1289 m^2	0.8477	Electrical Engineering	Data Science, Bioinformatics, Electrical Engineering, Computational Media, Human Computer Interaction	-16	guinea pig	216	0.6884	623	0.9396	0.7899	672
+0	998 m^2	0.1404	APPLIED MATHEMATICS	Human Computer Interaction, Electrical Engineering, Bioinformatics, Bioengineering	-158	ferret	200	0.4926	260	0.3852	1.1309	634
+0	1049 m^2	0.2825	Applied Mathematics	Bioinformatics, Computational Media, Data Science, Human Computer Interaction, Electrical Engineering, Bioengineering	174	RAT	142	0.7122	29	1.0543	0.7159	237
+0	1211 m^2	0.6525	Applied Mathematics	Bioengineering, Human Computer Interaction, Data Science, Natural Language Processing, Electrical Engineering	-114	guinea pig	336	0.4651	438	0.4509	0.8975	1253
+2	496 m^2	0.0389	Games and Playable Media	COMPUTATIONAL MEDIA, ELECTRICAL ENGINEERING	868	bird	740	1.014	n/a	-0.4702	0.9644	460
+0	949 m^2	0.1779	Statistics	DATA SCIENCE, BIOENGINEERING, HUMAN COMPUTER INTERACTION	360	guinea pig	473	0.3552	539	0.7196	0.652	848
+1	601 m^2	0.0108	Data Science	Computer Science, Statistics, Computer Game Design	251	pig	512	0.8018	1257	0.5716	0.0633	614
+2	140 m^2	0.8599	Games and Playable Media	Robotics Engineering		reptile	n/a	0.937	290	-0.0777	0.8923	83
+1	825 m^2	0.012	Electrical Engineering	Statistics, Computer Game Design	989	dog	13	0.2865	586	1.114	-0.0165	845
+2	607 m^2	0.9018	Computer Science	Technology and Information Management, Applied Mathematics, Games and Playable Media	754	reptile	640	0.9035	83	0.2571	0.9202	415
+2	215 m^2	0.8949	Robotics Engineering	Technology and Information Management	745	reptile	606	0.7304	772	-0.3682	0.4206	-62
+1	630 m^2	0.1936	Technology and Information Management	Computer Engineering, Biotechnology, Computer Science	447	dog	494	0.3983	1091	0.8442	-0.0301	695
+1	774 m^2	-0.2179	Computer Engineering	Statistics, Computer Game Design, Biotechnology	349	cat	376	0.0738	1013	0.9866	0.4081	673
+2	183 m^2	0.7899	Robotics Engineering	gAMES AND pLAYABLE mEDIA, aPPLIED mATHEMATICS	505	reptile	867	0.7381	-237	-0.1576	0.4359	528
+0	1015 m^2	1.067	Computer Game Design	Statistics, Computer Engineering, Computer Science	40	fish	475	0.6885	-163	1.405	0.6569	679
+0	896 m^2	-0.1943	Robotics Engineering	Natural Language Processing, Computational Media, Bioinformatics	-99	guinea pig	334	0.3162	1002	0.6266	0.8631	671
+0	893 m^2	0.3878	Technology and Information Management	Natural Language Processing, Computational Media	-206	ferret	-146	0.8387	130	0.6518	1.0516	187
+1	151 m^2	0.3409	Technology and Information Management	Computer Engineering, Biotechnology, Statistics, Computer Science	533	rabbit	432	0.0627	1014	1.1799	0.3037	n/a
+0	878 m^2	0.4914	Computer Game Design	Natural Language Processing, Data Science	130	guinea pig	482	0.145	253	0.8145	0.8559	1263
+2	490 m^2	0.6657	Games and Playable Media	Robotics Engineering, Applied Mathematics, Technology and Information Management	948	hamster	812	0.1947	-116	0.0778	0.9969	-233
+1	562 m^2	-0.0674	Electrical Engineering	Computer Game Design, Biotechnology, Computer Science	499	cat	507	0.2412	790	1.4905	0.1197	641
+0	1144 m^2	-0.0382	Applied Mathematics	Computational Media, Bioengineering, Natural Language Processing	-118	dog	556	0.9738	324	0.4663	0.3781	889
+1	484 m^2	0.4418	Electrical Engineering	Computer Engineering	524	dog	878	0.1693	1299	0.6817	0.2821	813
+1	303 m^2	0.0506	Data Science	Statistics	720	pig	341	0.083	612	0.6856	0.1466	-202
+1	301 m^2	-0.0405	Data Science	Computer Engineering	724	pig	398	0.0734	1414	0.6132	-0.111	595
+1	575 m^2	0.5698	Data Science	Statistics, Biotechnology, Computer Game Design	602	dog	225	0.3805	975	0.8956	0.1075	508
+0	972 m^2	0.7909	Computer Game Design	Bioengineering	13	rat	320	0.4601	-187	0.2528	1.048	1071
+2	263 m^2	0.4175	Robotics Engineering	Applied Mathematics, Technology and Information Management	913	hamster	893	0.83	273	0.6762	0.8759	288
+1	599 m^2	-0.1921	Human Computer Interaction	Computer Science, Computer Engineering, Biotechnology, Computer Game Design	934	rabbit	623	-0.3785	462	0.9882	0.1621	198
+2	278 m^2	0.8936	Games and Playable Media	Games and Playable Media	775	bird	661	0.7304	-672	0.1569	0.8549	238
+0	996 m^2	0.5959	Statistics	Bioengineering, Bioinformatics, Natural Language Processing, Computational Media	13	ferret	387	0.31	569	0.4453	1.1391	1113
+2	16 m^2	1.051	Games and Playable Media	Robotics Engineering, Technology and Information Management, Applied Mathematics	1003	hamster	709	0.5908	-303	-0.0148	1.0804	128
+1	666 m^2	0.4911	Human Computer Interaction	Biotechnology, Statistics, Computer Science, Computer Game Design	581	rabbit	382	-0.0019	974	1.2226	0.0677	921
+2	207 m^2	0.5094	Robotics Engineering	Robotics Engineering, Applied Mathematics, Technology and Information Management	869	reptile	922	1.0025	-327	0.2596	0.9191	577
+2	384 m^2	0.6749	Computer Science	Technology and Information Management, Games and Playable Media	895	hamster	654	1.0693	151	0.2381	0.8624	15
+2	250 m^2	0.4453	Games and Playable Media	Robotics Engineering	1185	reptile	674	0.5702	-194	-0.1825	0.8622	204
+1	355 m^2	0.6034	Computer Engineering	Computer Game Design, Computer Science, Biotechnology, Computer Engineering	584	pig	357	0.2418	683	0.6405	0.187	280
+2	375 m^2	0.631	Robotics Engineering	Technology and Information Management, Games and Playable Media, Applied Mathematics	773	hamster	1039	1.1576	100	-0.0159	0.9029	-244
+1	322 m^2	0.3029	Human Computer Interaction	Applied Mathematics, Technology and Information Management, Games and Playable Media	612	pig	618	0.4427	1247	1.4384	-0.2404	351
+2	197 m^2	0.3361	Robotics Engineering	Games and Playable Media	713	REPTILE	801	0.7824	-21	0.0913	0.4761	-304
+1	577 m^2	0.1017	Electrical Engineering	Biotechnology	628	pig	722	-0.0034	1106	0.8419	0.3205	114
+2	69 m^2	0.8498	Games and Playable Media	Games and Playable Media, Robotics Engineering	925	hamster	329	0.459	320	-0.0007	0.5128	-96
+2	108 m^2	0.5031	Robotics Engineering	Computer Science, Computer Engineering, Computer Game Design	681	chicken	468	0.7369	-176	0.214	0.5161	287
+0	665 m^2	0.4327	Natural Language Processing	Bioengineering, Bioinformatics, Data Science, Electrical Engineering, Human Computer Interaction	105	guinea pig	352	0.4674	268	0.6614	1.0103	667
+1	817 m^2	0.2052	Human Computer Interaction	Computer Engineering	773	rabbit	240	-0.0728	1243	1.0716	-0.0633	750
+2	-63 m^2	0.9108	Games and Playable Media	Applied Mathematics, Technology and Information Management	1224	BIRD	413	0.5746	230	-0.057	0.8845	579
+0	903 m^2	0.0385	Natural Language Processing	Computational Media	216	ferret	209	0.7605	706	0.7751	0.7541	722
+0	991 m^2	0.7829	Computer Game Design	Natural Language Processing, Bioengineering, Electrical Engineering, Computational Media, Bioinformatics, Human Computer Interaction	-165	bird	365	0.064	321	0.6658	0.6614	763
+0	1310 m^2	0.7161	Natural Language Processing	Bioengineering, Data Science, Computational Media, Natural Language Processing, Bioinformatics, Electrical Engineering	217	ferret	593	0.721	338	0.9002	0.8567	850
+2	257 m^2	0.4773	Games and Playable Media	Robotics Engineering, Applied Mathematics, Games and Playable Media	909	hamster	840	0.8039	-139	0.1174	0.9587	341
+1	1004 m^2	0.5	Human Computer Interaction	Computer Game Design, Computer Engineering	536	rabbit	496	-0.1504	1274	0.588	-0.3262	206
+0	875 m^2	0.3085	Computer Game Design	Data Science, Human Computer Interaction, Computational Media	-153	guinea pig	176	0.5778	535	0.7471	0.988	480
+2	87 m^2	0.2574	Biotechnology	Games and Playable Media, Robotics Engineering	844	bird	613	0.7479	-290	0.0695	0.6568	-55
+1	136 m^2	0.3615	Electrical Engineering	Computer Engineering, Biotechnology	773	cat	134	0.4146	1323	1.1463	-0.0801	-143
+2	551 m^2	0.5648	Computer Game Design	Technology and Information Management, Games and Playable Media	1061	bird	601	0.6084	-3	0.2469	0.2787	240
+2	420 m^2	1.1123	Biotechnology	Robotics Engineering, Technology and Information Management, Games and Playable Media	1020	hamster	388	0.9609	-136	0.1674	0.7423	-127
+1	696 m^2	0.1515	Computational Media	COMPUTER ENGINEERING, STATISTICS, BIOTECHNOLOGY	480	chicken	281	0.0033	1531	0.6005	0.062	983
+1	577 m^2	0.0915	Data Science	Computer Science, Computer Engineering, Computer Game Design, Biotechnology	629	cat	106	-0.313	828	0.9562	0.1305	101
+2	-8 m^2	0.5069	Computer Science	Applied Mathematics	779	reptile	453	0.769	592	-0.1198	0.5559	880
+0	837 m^2	0.4846	Natural Language Processing	Bioinformatics, Bioengineering, Natural Language Processing, Electrical Engineering	-218	ferret	89	0.4918	695	0.6835	0.6956	1387
+0	1081 m^2	0.1927	Applied Mathematics	Human Computer Interaction, Natural Language Processing	-351	rat	650	0.2799	153	0.7819	0.783	550
+2	294 m^2	1.2861	Bioengineering	Applied Mathematics, Technology and Information Management, Games and Playable Media	1070	bird	537	0.9331	121	0.3149	0.9629	-83
+1	807 m^2	0.5333	Technology and Information Management	Statistics	513	pig	522	-0.1794	1071	1.1844	0.2764	266
+1	461 m^2	0.1931	Data Science	Biotechnology, Computer Engineering, Computer Game Design	146	reptile	204	0.1711	1059	0.6822	0.5593	-379
+2	344 m^2	1.0192	Computer Science	Robotics Engineering, Games and Playable Media	582	hamster	775	0.7983	-50	0.1341	0.3664	-53
+2	256 m^2	0.2011	Games and Playable Media	Applied Mathematics, Robotics Engineering	1404	hamster	898	1.0544	None	0.1392	0.6036	-33
+1	594 m^2	N/A	Bioinformatics	Computer Engineering	460	dog	434	-0.0775	1083	0.8182	-0.2779	241
+2	519 m^2	1.0064	Robotics Engineering	Technology and Information Management	1162	reptile	678	1.1588	542	0.1026	0.8827	567
+1	1059 m^2	-0.3875	Data Science	Bioinformatics	562	chicken	278	-0.0909	1491	0.7659	-0.3048	184
+2	-88 m^2	0.6189	Robotics Engineering	Technology and Information Management, Applied Mathematics	777	reptile	753	0.557	71	0.0592	0.9678	201
+0	951 m^2	0.4047		Computer Game Design, Computer Engineering	453	ferret	286	0.5118	301	0.5145	NULL	1182
+2	-73 m^2	0.2832	Robotics Engineering	Electrical Engineering, Data Science, Bioengineering, Computational Media, Bioinformatics, Human Computer Interaction	924	reptile	779	0.7652	-55	0.2821	0.5318	-36
+2	456 m^2	0.7864	Biotechnology	Robotics Engineering	1516	reptile	862	0.8985	-22	0.4169	0.7305	?
+0	1032 m^2	0.2652	Computer Game Design	Bioinformatics, Bioengineering	162	ferret	218	0.0839	524	0.8766	0.7397	510
+2	262 m^2	0.5592	Biotechnology	Games and Playable Media	1024	hamster	840	0.861	146	0.3902	0.8128	397
+1	525 m^2	0.276	Bioengineering	Statistics, Computer Engineering, Biotechnology	411	cat	268	0.0075	806	1.3317	0.4229	278
+2	-240 m^2	0.3482	Games and Playable Media	Robotics Engineering, Games and Playable Media, Applied Mathematics	727	reptile	892	1.2355	291	-0.2361	0.9561	-75
+2	-103 m^2	0.8248	Games and Playable Media	Applied Mathematics, Technology and Information Management, Robotics Engineering	992	bird	524	0.649	211	-0.0395	0.8485	492
+2	483 m^2	0.749	Computer Science	Technology and Information Management, Applied Mathematics	952	reptile	716	0.4825	-457	-0.3118	1.1169	421
+1	709 m^2	-0.1523	hUMAN cOMPUTER iNTERACTION	Human Computer Interaction, Data Science, Computational Media, Natural Language Processing	208	pig	563	0.3313	1193	0.8989	-0.0634	227
+0	569 m^2	0.9058	STATISTICS	Human Computer Interaction, Bioinformatics, Bioengineering	-274	guinea pig	-113	0.1713	405	1.1082	1.2792	NULL
+2	303 m^2	0.6622	Robotics Engineering	Electrical Engineering, Data Science, Computational Media, Human Computer Interaction, Bioinformatics, Natural Language Processing	1078	bird	746	0.8098	349	0.1345	0.8883	236
+0	1164 m^2	0.5414	Computational Media	Natural Language Processing, Computational Media, Data Science, Bioinformatics, Bioengineering, Human Computer Interaction	-245	reptile	235	0.4181	574	0.6032	0.4851	296
+2	335 m^2	0.6378	Robotics Engineering	Technology and Information Management, Games and Playable Media, Robotics Engineering	776	reptile	795	0.8129	72	0.3119	0.9051	-481
+0	914 m^2	0.8196	Statistics	Computational Media, Natural Language Processing, Bioinformatics, Human Computer Interaction, Electrical Engineering	-172	ferret	69	0.3433	-88	0.2811	0.6352	1285
+1	965 m^2	0.5297	Data Science	Technology and Information Management, Applied Mathematics, Games and Playable Media	340	chicken	411	-0.0022	1149	0.8709	-0.0685	610
+2	215 m^2	0.9417	Biotechnology	Technology and Information Management	663	hamster	850	0.8802	293	-0.1056	0.6577	-268
+1	534 m^2	-0.0521	Bioinformatics	Statistics, Computer Science	937	pig	152	0.1766	738	1.3078	0.1919	296
+1	844 m^2	0.0694	Games and Playable Media	Computer Science, Computer Engineering, Computer Game Design	512	rabbit	127	0.3247	1314	1.2278	0.1157	247
+0	1012 m^2	0.5386	Applied Mathematics	Computational Media, Natural Language Processing, Bioengineering	-162	ferret	308	0.7682	43	0.5826	0.9404	255
+2	26 m^2	0.6334	Games and Playable Media	Technology and Information Management, Games and Playable Media, Applied Mathematics	723	hamster	935	1.0327	114	0.1613	0.6346	508
+1	549 m^2	0.4132	Bioinformatics	Biotechnology	393	dog	76	0.1031	793	1.4044	0.219	331
+0	949 m^2	0.1685	Computer Game Design	Computational Media, Electrical Engineering, Data Science, Natural Language Processing	n/a	FISH	-258	0.6229	-445	0.5884	0.8793	741
+0	1060 m^2	0.4376	Biotechnology	Human Computer Interaction, Natural Language Processing, Data Science, Bioengineering, Computational Media	N/A	rat	199	0.391	292	0.4376	0.7709	720
+0	1453 m^2	0.6703	Applied Mathematics	Human Computer Interaction	-418	rat	439	0.694	782	0.9752	1.1406	1366
+1	653 m^2	0.2758	Human Computer Interaction	Computer Game Design	346	cat	405	0.3796	906	1.1358	-0.1707	529
+0	948 m^2	0.7743	Natural Language Processing	Bioinformatics, Data Science, Electrical Engineering, Bioengineering	547	ferret	511	0.8751	859	0.796	1.0861	1133
+0	785 m^2	0.7594	Applied Mathematics	Natural Language Processing, Data Science, Computational Media, Bioinformatics	-413	fish	567	0.5203	401	0.4744	1.0926	692
+0	926 m^2	0.318	Natural Language Processing	Computational Media, Data Science, Bioinformatics, Electrical Engineering, Bioengineering, Human Computer Interaction	80	rat	161	0.1636	436	0.5409	1.0352	599
+0	761 m^2	0.5095	computer game design	Bioengineering, Human Computer Interaction, Natural Language Processing	216	ferret	-208	0.0023	565	0.6925	0.8321	1246
+2	121 m^2	0.6532	Games and Playable Media	Applied Mathematics, Games and Playable Media, Technology and Information Management	457	hamster	1027	0.9562	535	0.2432	0.3337	-76
+2	531 m^2	0.7257	Biotechnology	Applied Mathematics, Games and Playable Media	719	bird	626	0.4739	-55	0.2509	0.5353	299
+2	180 m^2	0.6801	Computer Science	Technology and Information Management, Robotics Engineering, Applied Mathematics	591	hamster	1274	1.1792	70	0.5727	0.8916	182
+0	1070 m^2	0.2467	Natural Language Processing	Computational Media, Electrical Engineering, Bioinformatics, Data Science	-23	guinea pig	247	0.0916	3	0.8477	0.848	875
+1	846 m^2	0.4622	eLECTRICAL eNGINEERING	Statistics, Computer Game Design	431	rabbit	37	0.1143	1286	1.2092	0.4471	518
+2	-23 m^2	0.5586	Games and Playable Media	Robotics Engineering, Applied Mathematics	820	reptile	594		18	-0.113	0.9107	262
+0	1134 m^2	0.1484	biotechnology	Bioengineering, Bioinformatics, Data Science	-88	Guinea Pig	468	0.1764	1025	0.0582	0.9913	835
+2	-194 m^2	0.7136	Games and Playable Media	Applied Mathematics, Technology and Information Management	414	reptile	523	0.8827	-241	0.2627	0.6483	164
+1	787 m^2	0.2684	Technology and Information Management	Statistics, Computer Game Design, Computer Engineering	847	dog	463	0.5721	403	0.7776	-0.007	176
+2	197 m^2	0.6911	Games and Playable Media	Technology and Information Management, Applied Mathematics, Robotics Engineering	1106	reptile	548	0.8644	137	0.0462	0.674	483
+0	1201 m^2	0.7941	Natural Language Processing	Bioengineering, Computational Media, Data Science, Bioinformatics	241	ferret	371	-0.0921	739	0.904	1.0271	939
+2	174 m^2	0.4858	Robotics Engineering	Bioengineering	645	reptile	587	0.6087	359	0.0356	0.7105	-193
+1	124 m^2	-0.2216	Computer Engineering	Computer Science, Statistics, Computer Engineering, Biotechnology	584	rabbit	592	0.5268	847	1.0837	0.1394	427
+2	164 m^2	0.2528	Robotics Engineering	Applied Mathematics, Games and Playable Media	1069	reptile	463	0.4224	285	0.0935	0.4918	-196
+0	887 m^2	0.8109	Computer Game Design	Bioinformatics, Bioengineering, Natural Language Processing, Electrical Engineering	127	rat	183	0.3042	243	0.3495	0.7928	1098
+1	429 m^2	-0.1095	Technology and Information Management	Computer Science, Biotechnology	857	cat	73	0.2927	998	0.8273	0.5128	50
+2	173 m^2	0.2967	Computer Science	Games and Playable Media	620	hamster	532	1.2001	-146	0.5046	0.6216	131
+2	254 m^2	0.5966	Biotechnology	Electrical Engineering, Natural Language Processing, Computational Media, Data Science, Bioinformatics	847	bird	919	1.1895	181	0.009	0.5086	-109
+1	446 m^2	0.111	Human Computer Interaction	Statistics, Computer Science, Biotechnology	330	cat	361	-0.0912	609	0.8194	0.1789	432
+1	769 m^2		Electrical Engineering	Computer Engineering, Statistics, Computer Science	495	cat	312	0.3368	609	1.0903	0.5611	577
+1	474 m^2	0.7774	Bioengineering	Biotechnology, Computer Engineering, Statistics	497	pig	508	0.6026	1060	0.6426	0.1595	862
+0	1391 m^2	0.7609	Statistics	Data Science	342	fish	-19	0.6104	99	0.3998	0.8976	820
+0	1233 m^2	0.1096	Natural Language Processing	Computational Media, Data Science, Human Computer Interaction	173	guinea pig	-23	0.2422	438	0.4782	0.8764	547
+1	623 m^2	-0.1215	Bioengineering	Computer Science, Computer Engineering	575	rabbit	412	0.0891	2047	0.924	0.0925	-110
+0	281 m^2	-0.0774	Natural Language Processing	Natural Language Processing, Human Computer Interaction, Electrical Engineering	490	ferret	203	0.0742	201	0.5669	0.7139	807
+1	441 m^2	0.1373	Computer Engineering	Computer Science, Computer Game Design	897	pig	711	0.0345	940	1.1176	-0.1762	282
+2	-110 m^2	0.7356	Robotics Engineering	Applied Mathematics, Technology and Information Management	622	BIRD	233	0.7345	-504	-0.3049	0.6877	104
+0	468 m^2	0.2639	Statistics	Human Computer Interaction, Electrical Engineering, Data Science, Computational Media, Bioengineering, Natural Language Processing	334	guinea pig	388	0.4803	448	0.7036	0.7244	n/a
+1	537 m^2	0.3892	Technology and Information Management	Computer Engineering, Computer Game Design, Computer Science, Biotechnology	297	dog	848	0.508	1276	0.8713	-0.0319	637
+0	964 m^2	0.5437	Computer Game Design	Bioinformatics, Data Science, Computational Media, Human Computer Interaction	-82	RAT	323	0.8072	390	0.4605	0.879	736
+1	524 m^2	0.3124	Robotics Engineering	Games and Playable Media, Robotics Engineering	393	dog	239	0.0267	187	0.9338	0.4374	440
+1	610 m^2	0.4094	Bioinformatics	Computer Engineering, Biotechnology	588	dog	188	0.4765	458	0.7904	0.2582	646
+1	673 m^2	0.1762	Computer Engineering	Computer Science	469	chicken	-33	0.362	?	1.5187	0.1319	43
+2	-45 m^2	0.8971	Games and Playable Media	Technology and Information Management, Applied Mathematics, Games and Playable Media	690	reptile	867	1.0501	206	0.1473	0.3749	972
+2	-47 m^2	0.5361	Games and Playable Media	GAMES AND PLAYABLE MEDIA	834	bird	1277	0.2317	132	-0.0003	0.8829	708
+0	1232 m^2	0.3804	Applied Mathematics	Electrical Engineering, Computational Media, Data Science, Bioengineering, Bioinformatics, Human Computer Interaction	-107	rat	314	0.2546	323	0.4006	0.7807	1463
+0	633 m^2	-0.1032	Computer Science	Data Science	34	N/A	66	0.5447	285	0.3733	1.1166	442
+0	1095 m^2	0.2024	Computer Game Design	Computational Media, Electrical Engineering, Data Science, Bioinformatics	-159	rat	196	0.2642	459	0.5226	0.8253	1219
+0	842 m^2	0.2013	Statistics	Natural Language Processing	514	rat	-39	0.2977	-446	0.5591	0.8175	889
+2	81 m^2	0.7486	Biotechnology	Technology and Information Management, Games and Playable Media	938	bird	606	0.9055	534	0.0711	0.942	24
+0	882 m^2	0.5095	Computer Game Design	Electrical Engineering, Natural Language Processing, Data Science	-56	guinea pig	120	0.3012	-121	0.7604	1.0608	1169
+0	1090 m^2	0.2925	Natural Language Processing	Human Computer Interaction, Bioinformatics, Bioengineering, Computational Media, Electrical Engineering, Natural Language Processing	-89	guinea pig	-199	0.4159	413	0.4878	1.0907	954
+2	321 m^2	0.4685	Computer Science	Technology and Information Management, Applied Mathematics	902	chicken	669	1.1563	236	-0.0774	0.6964	331
+2	367 m^2	0.7331	Robotics Engineering	Technology and Information Management, Games and Playable Media, Robotics Engineering	848	hamster	421	0.664	253	0.481	0.6364	17
+1	772 m^2	-0.0147	Technology and Information Management	Computer Engineering, Computer Science, Biotechnology	561	dog	212	0.4892	973	0.9936	0.1403	113
+0	528 m^2	0.6411	NATURAL LANGUAGE PROCESSING	Bioinformatics, Natural Language Processing	86	ferret	410	0.2786	212	0.3747	1.1786	1008
+1	329 m^2	0.1181	Human Computer Interaction	Computer Game Design, Computer Science	524	rabbit	460	0.5633	192	1.2569	-0.004	635
+2	113 m^2	0.9224	Computer Science	Robotics Engineering, Games and Playable Media	1232	bird	1026	0.851	-105	0.508	0.5747	121
+0	1268 m^2	0.0167	cOMPUTER gAME dESIGN	Electrical Engineering, Data Science, Natural Language Processing, Bioinformatics	32	fish	80	-0.06	195	1.024	0.7164	1054
+0	1162 m^2	0.1428	Natural Language Processing	Electrical Engineering	-147	ferret	189	0.6522	373	0.9359	0.7055	980
+1	743 m^2	0.2812	Technology and Information Management	Biotechnology, Computer Engineering	304	BIRD	305	0.2633	968	0.7881	0.0234	669
+1	729 m^2	0.1391	Technology and Information Management	Computer Science, Statistics	467	dog	171	0.04	587	0.9228	0.0417	NULL
+2	359 m^2	0.4303	Games and Playable Media	Games and Playable Media, Robotics Engineering	804	reptile	978	0.0618	122	0.091	0.7267	-804
+2	-146 m^2	0.6247	Robotics Engineering	Applied Mathematics, Robotics Engineering, Games and Playable Media	1259	reptile	695	1.0087	198	-0.007	0.462	345
+0	928 m^2	0.3967	statistics	Natural Language Processing, Bioinformatics, Human Computer Interaction, Computational Media, Data Science, Bioengineering	37	fish	785	0.6129	35	0.9034	0.8817	79
+1	793 m^2	0.0232	Computer Engineering	Bioengineering, Human Computer Interaction, Bioinformatics, Computational Media	667	cat	954	0.253	994	0.5894	0.3563	289
+0	960 m^2	0.2589	Statistics	Human Computer Interaction, Bioengineering, Computational Media, Electrical Engineering, Bioinformatics	414	ferret	373	0.0414	847	0.6167	1.2013	1037
+0	620 m^2	0.7518	Computer Game Design	Human Computer Interaction, Bioinformatics, Bioengineering, Data Science, Computational Media	233	fish	-84	0.1835	415	0.8054	0.8754	173
+1	401 m^2	0.0296	Computational Media	Computer Science	298	fish	710	0.2064	854	0.8659	0.0054	411
+1	868 m^2	-0.4581	Computational Media	Statistics, Computer Game Design	656	chicken	51	-0.471	868	1.0536	-0.0625	290
+1	614 m^2	0.2682	Human Computer Interaction	Biotechnology	733	pig	386	0.4139	1252	1.218	0.0326	667
+2	-173 m^2	0.3827	Biotechnology	Technology and Information Management, Robotics Engineering	671	bird	704	0.2607	221	0.4377	0.5819	241
+0	1024 m^2	0.0872	Statistics	Natural Language Processing, Bioengineering	204	ferret	275	0.3122	419	1.0191	1.176	1077
+1	606 m^2	0.1831	Computer Engineering	Applied Mathematics	394	reptile	24	0.4419	1150	1.3113	-0.1367	-5
+1	715 m^2	-0.3433	HUMAN COMPUTER INTERACTION	Statistics, Computer Engineering, Biotechnology, Computer Game Design	878	cat	-237	-0.2626	516	0.749	0.7518	786
+1	696 m^2	0.626	Human Computer Interaction	Biotechnology, Statistics, Computer Game Design	639	cat	143	0.0488	1352	1.0946	0.1799	155
+2	-331 m^2	0.9647	Technology and Information Management	rOBOTICS eNGINEERING, gAMES AND pLAYABLE mEDIA, aPPLIED mATHEMATICS	1077	reptile	686	1.0324	-402	0.1712	0.8557	564
+0	1458 m^2	0.2693	Computer Game Design	Electrical Engineering, Natural Language Processing, Computational Media, Bioengineering	-216	Reptile	576	0.4972	632	0.8573	0.9369	961
+0	1023 m^2	0.1989	Natural Language Processing	Bioengineering, Computational Media, Data Science, Electrical Engineering, Human Computer Interaction	489	ferret	456	1.1111	402	0.5797	0.7363	495
+1	396 m^2	-0.2699	Computer Engineering	Computer Engineering, Computer Game Design, Biotechnology, Computer Science	335	cat	353	0.6217	539	1.3557	0.0075	458
+1	892 m^2	0.0508	Bioinformatics	Biotechnology, Computer Engineering, Computer Game Design	977	rabbit	860	0.0342	1317	0.7144	0.2501	550
+0	939 m^2	0.5168	Applied Mathematics	Electrical Engineering	209	ferret	58	0.1397	276	0.6285	1.0923	1056
+2	41 m^2	0.3802	Robotics Engineering	Games and Playable Media, Robotics Engineering, Applied Mathematics	792	hamster	764	1.0464	-240	-0.0818	0.2727	591
+1	282 m^2	0.3874	Human Computer Interaction	Computer Game Design, Computer Science	577	cat	358	0.2599	840	1.0324	0.2367	72
+0	1203 m^2	0.1016	Computer Game Design	Data Science, Bioengineering, Computational Media, Human Computer Interaction, Electrical Engineering, Natural Language Processing	-293	rat	143	0.6565	108	0.8094	0.974	1019
+0	1446 m^2	0.3373	Computer Game Design	Data Science, Human Computer Interaction, Computational Media	430	ferret	21	0.7381	440	0.8719	0.6381	1209
+0	576 m^2	0.0385	Statistics	Electrical Engineering	-235	fish	528	0.1513	669	0.839	1.2909	299
+0	914 m^2	0.6441	Computer Game Design	Computer Science	236	fish	351	0.5819	725	0.5861	1.2445	1106
+0	794 m^2	0.9489	Applied Mathematics	Statistics, Biotechnology, Computer Engineering	-320	fish	359	0.514	-78	0.6259	1.2175	583
+2	-101 m^2	0.8211	Computer Science	Robotics Engineering	928	bird	361	0.7162	n/a	-0.1287	0.7371	1042
+0	900 m^2	0.3464	Natural Language Processing	Human Computer Interaction, Data Science, Electrical Engineering, Bioinformatics	-76	rat	430	0.1892	446	0.6485	0.991	380
+2	336 m^2	0.7809	Computer Science	Games and Playable Media, Robotics Engineering	588	?	736	0.8453	356	0.0663	0.4763	284
+1	356 m^2	0.1743	Human Computer Interaction	Biotechnology, Computer Science, Statistics	-101	chicken	543	-0.3292	970	0.937	0.2416	-93
+2	447 m^2	0.4227	Applied Mathematics	Games and Playable Media, Technology and Information Management, Robotics Engineering	966	bird	705	0.6838	99	0.1467	0.8732	398
+2	182 m^2	0.8407	Computer Science	Computer Engineering, Computer Science	771	bird	1016	1.048	7	0.1082	0.7362	143
+2	57 m^2	0.5003	Robotics Engineering	Games and Playable Media, Robotics Engineering	817	hamster	903	0.8485	1020	0.1792	0.6949	310
+2	150 m^2	0.163	Bioinformatics	Technology and Information Management	698	Bird	298	1.4787	458	-0.2983	0.9216	436
+2	-13 m^2	0.2965	Games and Playable Media	Technology and Information Management	1069	reptile	765	0.9326	-62	0.2252	0.9946	246
+0	695 m^2	0.6378	N/A	Electrical Engineering, Bioinformatics, Human Computer Interaction	339	fish	125	0.6754	861	0.7215	0.9491	197
+1	494 m^2	0.4034	Technology and Information Management	Statistics, Computer Science	461	rabbit	650	-0.2019	658	0.6165	-0.0454	13
+0	883 m^2	0.4152	Natural Language Processing	Natural Language Processing, Data Science	409	rat	462	0.4133	-67	1.041	1.0145	418
+2	200 m^2	0.9285	Robotics Engineering	Games and Playable Media	763	hamster	918	0.6049	-12	0.0356	0.6126	-367
+2	626 m^2	0.4248	Biotechnology	Robotics Engineering, Applied Mathematics	511	reptile	543	1.1912	262	0.2246	0.5344	183
+0	1022 m^2	0.3826	Statistics	Computational Media, Natural Language Processing, Bioengineering, Human Computer Interaction	239	guinea pig	-33	0.2336	645	0.2541	1.0827	1007
+2	195 m^2	0.5392	Biotechnology	Games and Playable Media, Applied Mathematics	841	hamster	871	0.4428	-27	0.2943	0.4021	-189
+2	-198 m^2	0.4778	Games and Playable Media	Games and Playable Media, Technology and Information Management, Applied Mathematics	670	reptile	963	0.6766	-87	0.2826	0.8038	288
+2	472 m^2	0.7756	Robotics Engineering	Games and Playable Media, Robotics Engineering	816	bird	737	0.8648	-223	-0.1841	0.6667	-415
+2	4 m^2	0.2757	Biotechnology	Games and Playable Media, Technology and Information Management, Robotics Engineering	333	hamster	767	1.107	-297	-0.2477	0.2947	427
+0	783 m^2	0.7137	Statistics	Human Computer Interaction, Bioengineering, Natural Language Processing, Computational Media, Electrical Engineering	85	N/A	235	0.3046	1182	0.9689	1.1121	1141
+1	332 m^2	-0.1451	Bioinformatics	Computer Science, Biotechnology	569	chicken	444	0.1824	1098	1.0705	-0.0392	81
+1	175 m^2	0.0312	Technology and Information Management	Biotechnology	569	cat	498	0.3203	976	1.0743	0.6066	486
+2	560 m^2	0.8201	ROBOTICS ENGINEERING	Human Computer Interaction	889	hamster	933	1.2696	-330	0.4074	0.3607	129
+1	867 m^2	0.3402	Computational Media	Computer Science, Computer Game Design, Computer Engineering	553	chicken	226	0.2664	781	1.3161	0.5629	266
+1	991 m^2	0.0084	Computer Engineering	statistics, biotechnology, computer game design	585	chicken	474	-0.0516	1053	1.099	0.2662	-331
+1	476 m^2	0.0802	Data Science	Biotechnology, Computer Science, Computer Engineering, Statistics	698	cat	619	0.3471	1142	1.2088	0.2053	229
+1	NULL	0.1219	Technology and Information Management	Robotics Engineering	888	rabbit	523	0.356	NULL	0.9055	-0.2124	62
+1	184 m^2	-0.1076	Bioengineering	Computer Science, Biotechnology	1053	dog	308	0.3562	1372	1.3916	0.2039	459
+0	846 m^2	0.6889	Statistics	Bioinformatics, Human Computer Interaction, Electrical Engineering, Computational Media, Natural Language Processing	-176	rat	14	0.9444	573	0.8268	0.9525	686
+1	864 m^2	0.5171	Computer Engineering	Computer Engineering, Computer Game Design	1241	dog	220	0.1541	633	1.2098	0.0169	361
+0	784 m^2	1.1686	Statistics	Bioengineering, Data Science	-135	fish	290	0.3407	208	0.6986	0.6639	643
+1	533 m^2	0.2562	Human Computer Interaction	Statistics, Computer Engineering	396	rabbit	300	0.1587	594	0.8867	-0.1248	921
+2	452 m^2	0.9215	Robotics Engineering	Applied Mathematics, Games and Playable Media, Robotics Engineering	984	Reptile	927	1.0623	272	0.0145	0.5132	119
+1	639 m^2	0.2399	Electrical Engineering	Robotics Engineering, Technology and Information Management, Applied Mathematics	268	pig	231	0.1067	1374	0.8687	0.262	331
+1	332 m^2	0.1313	Computer Science	Computer Engineering	683	dog	320	-0.3891	954	0.7705	-0.2555	786
+1	123 m^2	0.0191	Bioinformatics	Computer Game Design, Computer Engineering	712	pig	200	-0.0247	580	1.1677	0.0349	439
+0	1011 m^2	0.3269	Applied Mathematics	Bioinformatics, Electrical Engineering, Bioengineering	-14	fish	503	0.1274	299	0.5635	1.1948	227
+0	1247 m^2	0.5843	Natural Language Processing	Electrical Engineering, Bioinformatics, Human Computer Interaction	-94	rat	92	0.1209	459	0.4427	1.0946	980
+0	1165 m^2	0.5948	Natural Language Processing	Bioengineering, Natural Language Processing, Human Computer Interaction, Electrical Engineering, Bioinformatics, Data Science	543	rat	132	0.2197	-41	0.2405	1.0045	722
+2	-68 m^2	0.1797	Robotics Engineering	Applied Mathematics, Robotics Engineering, Games and Playable Media	679	reptile	776	1.0477	239	-0.3943	N/A	251
+1	559 m^2	0.2632	Computer Engineering	Computer Game Design, Computer Science	335	rat	314	-0.6459	1573	1.4268	0.1688	612
+2	63 m^2	0.7135	Robotics Engineering	Natural Language Processing, Computational Media, Human Computer Interaction	1323	hamster	729	0.6518	177	0.1821	0.6908	78
+0	785 m^2	0.7626	Computer Game Design	Data Science, Bioinformatics, Human Computer Interaction, Bioengineering	125	guinea pig	296	0.7045	538	1.0747	0.9344	955
+0	1548 m^2	0.1862	Applied Mathematics	Bioengineering, Bioinformatics, Human Computer Interaction	108	rat	287	0.5339	261	0.4018	0.8644	511
+0	834 m^2	0.2335	None	Electrical Engineering, Bioinformatics, Bioengineering, Computational Media, Human Computer Interaction	201	guinea pig	-34	0.068	443	0.2522	0.5982	712
+1	550 m^2	0.0527	Computer Engineering	Statistics	276	chicken	75	0.3263	1623	0.7975	0.307	238
+2	-27 m^2	0.3975	Robotics Engineering	Data Science, Human Computer Interaction, Bioengineering, Computational Media, Electrical Engineering, Bioinformatics	917	HAMSTER	525	0.3641	230	0.1953	0.8959	599
+1	489 m^2	-0.1963	Data Science	Computer Game Design, Statistics	519	cat	115	0.2025	1287	0.5041	-0.1365	262
+1	637 m^2	-0.1969	Human Computer Interaction	Computer Engineering, Statistics	603	pig	102	-0.074	849	0.6922	-0.122	255
+1	854 m^2	-0.1261	Bioengineering	Statistics, Computer Science, Biotechnology	560	pig	62	0.0638	None	1.2847	0.0589	-349
+1	702 m^2	-0.2831	Computer Science	Computer Science, Computer Game Design	682	cat	636	0.1501	895	0.9112	0.4478	184
+2	486 m^2	0.9063	Robotics Engineering	Robotics Engineering, Games and Playable Media	888	reptile	638	0.8178	5	0.1721	0.559	316
+1	814 m^2	-0.2196	Computer Engineering	Biotechnology, Computer Science, Computer Game Design	592	cat	314	-0.1972	903	0.6788	0.0705	414
+2	-158 m^2	0.3112	Robotics Engineering	Technology and Information Management, Applied Mathematics, Robotics Engineering	763	hamster	677	0.9385	-305	-0.1005	1.076	128
+1	577 m^2	-0.0959	Computer Science	Biotechnology, Computer Game Design	469	pig	74	0.3758	1288	1.0573	-0.3042	310
+0	1156 m^2	0.6018	Natural Language Processing	Human Computer Interaction, Bioengineering, Electrical Engineering, Natural Language Processing, Computational Media	-481	guinea pig	251	0.4969	-117	0.6067	1.2627	482
+2	-33 m^2	0.6194	Games and Playable Media	Statistics, Biotechnology, Computer Science, Computer Engineering	1129	reptile	961	0.7634	38	-0.3037	0.7092	106
+0	1410 m^2	0.5562	Natural Language Processing	Bioinformatics, Bioengineering, Natural Language Processing, Computational Media	285	ferret	14	0.0018	872	1.1369	0.8382	608
+1	448 m^2	-0.3928	Data Science	Robotics Engineering	710	rabbit	461	0.0943	1577	0.9419	-0.1284	451
+2	296 m^2	1.0657	Bioengineering	Games and Playable Media		reptile	838	0.684	-394	0.3119	1.0312	-150
+0	1267 m^2	0.2638	Computer Game Design	Bioengineering, Electrical Engineering	170	ferret	626	0.1393	251	0.4674	0.9068	262
+0	887 m^2	0.8664	Statistics	Bioinformatics	439	ferret	403	0.6845	372	1.1148	1.2167	962
+0	939 m^2	0.3008	Natural Language Processing	Computational Media, Bioinformatics	295	ferret	562	0.307	380	0.5271	0.4934	1351
+0	1511 m^2	0.447	Computer Game Design	Natural Language Processing, Human Computer Interaction, Computational Media, Electrical Engineering	None	guinea pig	125	0.5042	766	1.1835	0.8004	788
+0	725 m^2	0.2715	Applied Mathematics	Bioengineering, Data Science	49	fish	448	-0.1899	707	0.4747	0.7898	-35
+2	477 m^2	0.9224	Computer Science	Robotics Engineering, Technology and Information Management	1289	reptile	705	0.9698	-21	-0.3098	0.2974	305
+2	-273 m^2	0.7887	Computer Science	Data Science, Natural Language Processing, Computational Media, Human Computer Interaction	775	reptile	745	1.1349	-58	0.3734	0.7432	-344
+1	537 m^2	0.3111	Data Science	Statistics, Computer Science	618	pig	440	0.2481	585	1.293	0.0979	571
+2	382 m^2	0.6223	Games and Playable Media	applied mathematics, robotics engineering, games and playable media	1126	hamster	343	0.9059	230	0.21	0.9411	-376
+2	0 m^2	0.9863	Biotechnology	Applied Mathematics, Games and Playable Media, Technology and Information Management	383	hamster	912	0.8729	191	0.3937	0.5187	143
+0	1019 m^2	0.2563	COMPUTER GAME DESIGN	Bioengineering, Bioinformatics, Human Computer Interaction, Natural Language Processing	310	fish	-23	0.6766	-95	0.8446	1.1973	1030
+1	316 m^2	-0.0914	Applied Mathematics	Statistics, Computer Science	609	chicken	346	0.249	58	None	0.03	574
+0	888 m^2	0.5482	Applied Mathematics	Natural Language Processing, Electrical Engineering, Bioengineering	-100	ferret	73	0.3886	540	0.6591	0.546	1246
+0	1371 m^2	0.5008	Computer Science	Bioengineering, Electrical Engineering, Bioinformatics, Human Computer Interaction, Computational Media	-173	FISH	186	0.1268	463	0.0747	0.7687	546
+2	23 m^2	0.211	Computer Science	Applied Mathematics, Robotics Engineering, Technology and Information Management	812	bird	527	0.3907	320	0.2226	0.8795	516
+0	NULL	0.1573	Computer Game Design	Bioengineering, Electrical Engineering, Computational Media, Human Computer Interaction, Bioinformatics	72	fish	55	-0.1733	430	0.4174	0.6584	571
+0	1293 m^2	0.4294	Computer Game Design	Electrical Engineering, Bioinformatics, Natural Language Processing, Data Science, Human Computer Interaction	96	guinea pig	166	0.4493	1040	0.5284	0.6927	888
+1	416 m^2	0.5538	Bioengineering	Human Computer Interaction, Natural Language Processing	178	pig	101	0.2618	1296	1.2255	0.0296	252
+0	1173 m^2	0.4866	Statistics	Natural Language Processing, Electrical Engineering, Data Science, Bioengineering	376	rat	303	0.533	189	0.5865	1.1687	779
+1	476 m^2	0.1938	Data Science	Games and Playable Media	637	pig	360	0.3802	1203	1.2186	0.0237	584
+0	1120 m^2	0.2438	Applied Mathematics	Computer Engineering, Computer Game Design, Biotechnology	146	ferret	288	0.2134	723	0.6614	0.7003	666
+2	-76 m^2	0.7003	Games and Playable Media	Bioinformatics, Human Computer Interaction, Computational Media, Natural Language Processing, Bioengineering, Electrical Engineering	1109	hamster	634	1.0392	-173	NULL	0.5024	438
+1	754 m^2	0.0742	Bioengineering	Computer Game Design, Computer Science	622	cat	105	0.2598	712	1.0324	-0.4621	571
+2	792 m^2	0.4609	Biotechnology	Technology and Information Management, Games and Playable Media, Robotics Engineering	844	reptile	490	0.6172	516	0.2746	0.3887	248
+2	411 m^2	0.5197	gAMES AND pLAYABLE mEDIA	Applied Mathematics, Technology and Information Management, Games and Playable Media	759	hamster	880	0.6527	-218	-0.3638	0.6686	452
+0	956 m^2	0.5803	applied mathematics	Bioengineering, Electrical Engineering, Computational Media	173	fish	-77	0.4936	873	0.9012	1.2703	1251
+1	618 m^2	-0.1736	Biotechnology	Computer Game Design, Biotechnology, Computer Science	772	dog	639	-0.1988	827	1.0983	-0.0328	362
+1	813 m^2	-0.3493	Bioengineering	Statistics	115	HAMSTER	584	0.4877	525	0.6322	0.0903	732
+1	889 m^2	None	Human Computer Interaction	Computer Game Design, Computer Engineering	370	dog	776	-0.2359	773	0.9707	0.2469	372
+0	1299 m^2	0.1375	Human Computer Interaction	Data Science, Bioengineering, Human Computer Interaction, Bioinformatics, Electrical Engineering	-1	rat	118	0.1102	74	0.2423	0.587	948
+0	972 m^2	0.4013	Statistics	Computational Media, Bioengineering, Data Science, Electrical Engineering, Bioinformatics, Natural Language Processing	-25	fish	691	0.1683	692	0.5078	1.0285	543
+2	99 m^2	1.044	Computer Game Design	Technology and Information Management, Games and Playable Media, Applied Mathematics	570	bird	1125	0.6839	-173	0.1566	0.3562	-117
+2	238 m^2	N/A	Computer Science	Games and Playable Media, Technology and Information Management, Robotics Engineering	662	bird	652	0.8068	-296	-0.1207	0.7532	-8
+2	583 m^2	0.8873	Robotics Engineering	Statistics	626	reptile	568	0.9024	449	-0.0078	0.6158	318
+1	268 m^2	0.0924	Bioengineering	Computational Media, Human Computer Interaction	674	dog	171	0.0229	1314	1.4708	0.3664	303
+1	788 m^2	-0.498	Bioinformatics	Statistics, Computer Engineering, Biotechnology	463	rabbit	55	0.5694	1144	0.9552	0.3551	1013
+1	201 m^2	-0.5421	Data Science	Computer Science, Statistics	125	cat	432	0.6467	1362	0.8467	-0.4032	198
+0	810 m^2	0.6756	Computer Game Design	natural language processing	160	guinea pig	659	0.37	944	0.8134	0.7742	1106
+0	1431 m^2	0.8236	Computer Science	Electrical Engineering	88	fish	30	0.2255	479	1.0498	0.5258	419
+1	751 m^2	0.0421	Bioengineering	Computer Science, Biotechnology, Computer Engineering, Statistics	505	pig	425	0.2774	580	1.1023	-0.247	698
+1	576 m^2	-0.0926	Electrical Engineering	Computer Engineering, Computer Science, Computer Game Design, Biotechnology	644	rabbit	952	0.405	621	1.0366	0.305	660
+1	592 m^2	-0.2442	Technology and Information Management	Biotechnology, Computer Engineering, Statistics, Computer Science	458	chicken	446	-0.0086	837	0.7605	0.2508	253
+2	-29 m^2	0.3396	rOBOTICS eNGINEERING	Bioinformatics, Bioengineering, Data Science, Natural Language Processing	957	bird	823	0.9778	-401	0.3214	0.3969	7
+2	-51 m^2	0.9288	Games and Playable Media	gAMES AND pLAYABLE mEDIA, rOBOTICS eNGINEERING, aPPLIED mATHEMATICS	871	reptile	589	0.9632	421	0.2891	1.1739	300
+1	660 m^2	0.0056	Bioengineering	Computer Game Design, Biotechnology, Computer Science, Statistics	123	dog	395	0.0537	1112	1.113	0.0546	492
+2	267 m^2	0.813	Biotechnology	Games and Playable Media, Technology and Information Management	772	reptile	952	1.0031	65	0.2931	0.4384	-88
+0	908 m^2	0.3207	Natural Language Processing	Natural Language Processing, Bioinformatics, Computational Media	228	fish	61	0.3594	177	0.4348	0.6472	1230
+1	929 m^2	0.1272	Bioinformatics	Computer Science, Biotechnology, Statistics	387	cat	210	-0.1013	1448	0.9687	0.5391	612
+0	884 m^2	0.6905	Robotics Engineering	Electrical Engineering, Natural Language Processing, Computational Media, Human Computer Interaction	27	rat	289	0.7021	-123	0.5158	0.7992	1023
+0	762 m^2	0.3309	Applied Mathematics	Computational Media, Electrical Engineering, Data Science, Bioengineering, Human Computer Interaction, Bioinformatics	-84	fish	114	0.2021	751	0.8229	0.6115	1198
+1	925 m^2	0.3397	Computer Engineering	Statistics	621	Pig	254	0.0282	738	1.0493	0.3358	766
+0	1267 m^2	0.1531	Computer Engineering	Technology and Information Management	-137	fish	283	-0.0016	630	0.1691	0.8631	779
+1	511 m^2	0.3556	Computer Engineering	Computer Science, Computer Game Design, Statistics, Biotechnology	697	dog	225	0.0872	1189	1.1251	-0.2813	752
+1	450 m^2	-0.079	data science	Computer Game Design, Computer Science	293	cat	583	0.4237	1415	0.8147	-0.0452	599
+0	822 m^2	1.011	Natural Language Processing	DATA SCIENCE, HUMAN COMPUTER INTERACTION	-257	guinea pig	245	0.3105	894	0.9524	0.6109	782
+0	751 m^2	0.4949	Statistics	Computational Media, Natural Language Processing, Electrical Engineering, Data Science	25	guinea pig	268	0.4484	735	0.3463	0.5333	725
+2	283 m^2	0.7815	BIOTECHNOLOGY	Robotics Engineering, Technology and Information Management	907	bird	498	0.6898	621	0.2795	0.6363	-223
+1	370 m^2	0.2137	Electrical Engineering	Computer Game Design, Computer Engineering	148	pig	48	0.0425	189	0.2833	0.2081	-90
+1	671 m^2	-0.2479	Data Science	Computer Engineering, Computer Science, Biotechnology, Computer Game Design	486	cat	348	-0.0559	1129	0.8359	0.0645	485
+2	336 m^2	0.5935	Games and Playable Media	Robotics Engineering, Technology and Information Management	986	hamster	737	0.7361	253	0.1647	0.8406	275
+2	206 m^2	0.6951	Computer Game Design	Technology and Information Management	855	bird	618	0.5976	27	0.2479	0.6964	179
+1	941 m^2	-0.3522	Bioengineering	Computer Science	527	cat	545	0.3299	1349	0.9986	0.3984	332
+2	444 m^2	0.7684	Robotics Engineering	Robotics Engineering, Technology and Information Management	881	bird	994	0.9493	84	0.1386	0.5952	-244
+2	153 m^2	0.9375	Biotechnology	Games and Playable Media, Robotics Engineering, Technology and Information Management	762	hamster	N/A	1.5383	383	0.0586	0.1503	279
+1	642 m^2	0.5198	Computational Media	Computer Game Design, Computer Engineering, Biotechnology	297	cat	514	0.1557	388	1.1355	0.2844	713
+2	302 m^2	0.2973	Biotechnology	Games and Playable Media, Robotics Engineering, Applied Mathematics	907	reptile	898	1.0073	380	0.0384	0.8022	388
+1	497 m^2	0.3035	Biotechnology	Computer Engineering, Computer Science, Biotechnology	596	dog	134	0.7644	1798	1.3802	0.2833	-615
+2	293 m^2	0.8803	Biotechnology	Robotics Engineering	1308	reptile	583	0.6693	254	0.2301	0.7811	
+2	666 m^2	0.9514	Statistics	Robotics Engineering, Games and Playable Media	705	bird	988	1.2087	-99	-0.0061	0.8404	176
+2	188 m^2	0.5255	Bioinformatics	Technology and Information Management, Games and Playable Media	926	rabbit	815	0.9414	?	0.3214	0.4916	299
+0	1165 m^2	0.2047	Natural Language Processing	Bioengineering, Natural Language Processing	-75	rat	456	0.6702	557	0.763	0.8765	1341
+1	165 m^2	-0.1703	Computer Engineering	Games and Playable Media, Applied Mathematics, Robotics Engineering	492	dog	300	0.0241	1029	1.2216	0.478	401
+2	383 m^2	0.7278	Games and Playable Media	Biotechnology, Computer Engineering, Statistics, Computer Science	883	hamster	1093	1.043	47	0.0385	0.906	203
+0	1296 m^2	0.5408	Natural Language Processing	Human Computer Interaction, Electrical Engineering, Computational Media	302	rat	16	0.7512	707	0.1629	0.6987	759
+1	563 m^2	0.2623	Technology and Information Management	Computer Game Design, Biotechnology	675	chicken	?	-0.0953	930	0.9553	-0.4074	361
+2	99 m^2	0.8784	Human Computer Interaction	Games and Playable Media	459	hamster	798	0.8649	N/A	0.1234	0.5238	-258
+2	474 m^2	0.5443	Games and Playable Media	Applied Mathematics	366	bird	769	0.5462	-11	0.0868	0.6767	340
+2	-2 m^2	0.7775	Computer Science	Bioinformatics, Electrical Engineering, Bioengineering	508	hamster	612	0.7935	-184	0.1941	0.9169	99
+2	-256 m^2	0.8727	Games and Playable Media	Games and Playable Media, Technology and Information Management, Applied Mathematics	714	hamster	651	0.8978	201	0.2677	0.386	422
+0	1353 m^2	0.139	Natural Language Processing	Bioinformatics, Data Science, Electrical Engineering, Bioengineering, Natural Language Processing	145	fish	60	0.4178	825	0.7368	0.9006	472
+0	959 m^2	0.8057	Electrical Engineering	Human Computer Interaction, Computational Media, Data Science	18	rat	-120	0.2943	816	0.5369	0.835	912
+0	425 m^2	0.7366	Natural Language Processing	Bioengineering, Electrical Engineering, Natural Language Processing, Data Science	409	rat	273	0.8117	75	0.4976	0.9809	1165
+0	1106 m^2	0.4221	Statistics	Bioinformatics, Electrical Engineering, Data Science	23	guinea pig	158	0.0806	-227	0.0654	0.4549	732
+2	-460 m^2	0.957	Data Science	Applied Mathematics, Robotics Engineering, Games and Playable Media	488	reptile	687	0.8334	464	0.6355	0.487	321
+2	-32 m^2	0.7107	Biotechnology	Data Science, Natural Language Processing, Bioengineering, Computational Media, Human Computer Interaction	878	REPTILE	692	0.6612	271	-0.2111	0.7209	-148
+1	563 m^2	-0.0131	Computational Media	Computer Engineering, Biotechnology	291	pig	693	0.4166	605	0.7636	0.2417	224
+1	576 m^2	0.5005	Computational Media	Technology and Information Management	474	chicken	345	0.2222	1110	0.3808	0.2758	546
+2	230 m^2	1.026	Electrical Engineering	Technology and Information Management, Applied Mathematics, Games and Playable Media	527	reptile	996	0.6601	-266	-0.2899	0.4286	-334
+2	-3 m^2	0.6404	Robotics Engineering	Applied Mathematics, Technology and Information Management, Games and Playable Media	737	hamster	889	0.6464	723	-0.2451	1.4457	-140
+1	490 m^2	-0.0047	Electrical Engineering	Computer Game Design, Statistics	1070	dog	260	0.5972	1315	0.7937	None	195
+2	232 m^2	0.3821	robotics engineering	Bioengineering, Electrical Engineering	910	hamster	421	0.7292	-287	0.5071	0.6779	355
+0	470 m^2	0.732	Computer Game Design	Human Computer Interaction, Bioinformatics, Bioengineering, Data Science, Electrical Engineering	397	fish	203	0.2294	1187	None	0.6259	901
+2	330 m^2	0.8228	Biotechnology	Technology and Information Management, Applied Mathematics	1025	reptile	19	1.3735	87	-0.0381	0.7582	-416
+2	210 m^2	0.9354	Computer Science	Technology and Information Management, Applied Mathematics	1089	bird	653	0.8094	152	0.1328	0.8539	-143
+1	899 m^2	-0.1062	Data Science	COMPUTER ENGINEERING, COMPUTER SCIENCE, BIOTECHNOLOGY	335	CAT	22	-0.0204	254	NULL	-0.1277	231
+2	88 m^2	0.583	GAMES AND PLAYABLE MEDIA	Human Computer Interaction, Natural Language Processing, Electrical Engineering	941	hamster	649	0.7526	469	0.4944	0.5238	1027
+0	1440 m^2	0.5449	Statistics	Computational Media, Natural Language Processing	-147	rabbit	523	0.4865	-184	0.8853	1.065	1222
+1	320 m^2	0.2307	Computer Engineering	Statistics, Biotechnology, Computer Game Design, Computer Science	778	hamster	543	-0.0965	649	1.5431	0.0507	?
+1	661 m^2	-0.0236	Data Science	Computer Game Design, Biotechnology	732	cat	474	0.2477	1384	0.6246	0.0391	178
+1	660 m^2	0.1494	Human Computer Interaction		711	rabbit	326	0.2618	1306	1.2129	0.0331	969
+2	-58 m^2	1.0912	Computer Science	Technology and Information Management	617	hamster	737	0.6207	129	0.4952	0.4775	-42
+0	742 m^2	0.4324	Applied Mathematics	Data Science, Bioinformatics, Bioengineering, Human Computer Interaction, Natural Language Processing, Computational Media	246	bird	515	-0.1605	342	-0.1165	0.9067	227
+1	732 m^2	0.3243	Data Science	Computer Engineering, Computer Science, Computer Game Design, Biotechnology	602	pig	390	0.3459	760	1.0565	0.0284	647
+0	714 m^2	0.4515	Applied Mathematics	Human Computer Interaction, Computational Media, Data Science, Natural Language Processing	6	Rat	180	0.6162	827	0.2987	0.8692	862
+1	638 m^2	0.2841	Robotics Engineering	Computer Science, Computer Game Design	629	chicken	541	-0.1014	896	0.388	-0.1745	285
+2	289 m^2	0.4784	Games and Playable Media	Robotics Engineering	1142	hamster	809	1.0517	-275	-0.2678	0.7875	-181
+0	999 m^2	0.4124	Computer Game Design	Electrical Engineering, Computational Media, Bioinformatics, Data Science	161	rat	99	0.4338	522	0.7512	0.629	172
+1	659 m^2	0.1342	Computer Engineering	Statistics, Computer Engineering, Computer Science, Computer Game Design	213	chicken	540	-0.0072	1343	1.0868	-0.0252	19
+2	22 m^2	0.0954	Human Computer Interaction	Robotics Engineering	846	HAMSTER	919	0.9813	10	-0.015	0.7303	392
+1	546 m^2	0.0599	Computer Engineering	Computer Game Design, Computer Engineering, Statistics	572	chicken	207	0.3503	1000	1.0948	0.0793	564
+1	730 m^2	-0.4065	Bioinformatics	Bioengineering	217	dog	590	0.3708	1265	1.1862	-0.1183	870
+0	1224 m^2	0.1619	Computer Game Design	Computational Media, Data Science, Electrical Engineering, Bioinformatics	-193	ferret	63	0.7313	1020	0.3952	0.976	658
+1	762 m^2	-0.0364	Data Science	Applied Mathematics, Games and Playable Media	489	cat	392	0.2339	1211	1.0692	-0.0165	686
+2	-153 m^2	0.4913	Computer Science	Technology and Information Management, Games and Playable Media	670	bird	704	1.0074	-352	-0.2098	0.3961	490
+0	1004 m^2	0.3862	Human Computer Interaction	Electrical Engineering, Data Science, Bioinformatics, Bioengineering	56	fish	220	0.4132	1066	1.0042	0.9397	974
+1	377 m^2	0.0574	Human Computer Interaction	Biotechnology, Computer Engineering, Computer Science, Statistics	447	FERRET	154	0.6581	894	1.1105	?	733
+1	647 m^2	0.0722	Computer Engineering	Electrical Engineering, Bioengineering, Bioinformatics, Natural Language Processing, Data Science, Human Computer Interaction	791	pig	325	-0.0406	1128	0.6807	-0.321	825
+0	1224 m^2	0.0255	Applied Mathematics	Bioinformatics, Computational Media, Data Science, Bioengineering	251	ferret	-66	0.5928	787	0.7503	1.0013	740
+0	739 m^2	0.8458	Natural Language Processing	Bioengineering, Bioinformatics, Human Computer Interaction, Electrical Engineering	22	ferret	35	0.2877	561	1.0407	0.8525	888
+2	262 m^2	0.9427	Robotics Engineering	Applied Mathematics, Technology And Information Management, Robotics Engineering	649	hamster	574	1.5121	240	0.2263	0.406	341
+2	263 m^2	0.4168	Biotechnology	Robotics Engineering	1055	fish	1040	1.3889	535	-0.1777	0.698	-245
+0	931 m^2	0.8287	Computer Game Design	Natural Language Processing, Human Computer Interaction, Electrical Engineering	241	guinea pig	18	0.9337	457	0.5005	0.624	1060
+1	187 m^2	0.0559	Computer Engineering	Statistics, Computer Science	508	cat	290	0.3214	894	0.6336	0.1097	-38
+2	203 m^2	0.8282	Computer Science	Robotics Engineering, Applied Mathematics, Technology and Information Management	872	reptile	778	1.1248	74	-0.1058	0.4976	-111
+2	-367 m^2	0.3212	Computer Science	Robotics Engineering, Technology and Information Management	827	hamster	465	0.7648	-132	0.3247	0.8641	-290
+0	1008 m^2	0.5088	Natural Language Processing	Data Science, Bioengineering, Computational Media, Natural Language Processing, Electrical Engineering	228	ferret	191	0.353	?	0.7144	0.9057	942
+0	1014 m^2	0.7194	Bioinformatics	Biotechnology, Computer Game Design, Statistics, Computer Engineering	245	rat	13	0.4518	919	0.5734	0.518	1334
+2	523 m^2	1.0589	COMPUTER SCIENCE	Games and Playable Media, Robotics Engineering	707	hamster	938	0.5875	468	-0.3417	0.1569	639
+1	784 m^2	0.6481	Applied Mathematics	Computer Engineering	107	pig	164	0.3171	765	1.1987	0.3261	30
+0	1429 m^2	0.669	Applied Mathematics	Human Computer Interaction, Natural Language Processing, Data Science, Electrical Engineering	-40	guinea pig	226	0.3935	997	0.935	0.9279	675
+0	1116 m^2	0.5959	Applied Mathematics	Human Computer Interaction, Natural Language Processing, Electrical Engineering, Data Science	63	fish	507	0.5406	695	0.6725	1.0125	903
+0	723 m^2	0.1116	Applied Mathematics	Electrical Engineering, Data Science, Bioengineering, Computational Media, Human Computer Interaction, Bioinformatics	-39	dog	125	0.0171	110	1.1105	0.5611	713
+1	1046 m^2	0.4159	Computational Media	Computer Engineering, Statistics, Computer Game Design, Computer Science	49	cat	423	0.3347	446	1.1886	0.4263	343
+2	95 m^2	0.5803	Computer Science	Robotics Engineering, Technology and Information Management	1117	hamster	951	0.7538	46	0.1009	0.6039	-278
+0	947 m^2	0.2707	Computer Game Design	Data Science, Natural Language Processing, Computational Media	-348	rat	270	0.3105	645	0.7705	0.7333	887
+1	821 m^2	0.0251	TECHNOLOGY AND INFORMATION MANAGEMENT	Technology and Information Management, Robotics Engineering	680	dog	118	0.0629	830	1.1978	0.0913	160
+1	689 m^2	-0.0517	Bioinformatics	Computer Science, Statistics	206	cat	172	-0.1685	474	1.2305	-0.106	458
+2	180 m^2	0.4071	Robotics Engineering	Robotics Engineering, Applied Mathematics	692	bird	183	0.7137	-346	-0.0823	0.5933	-297
+2	317 m^2	0.674	Biotechnology	Robotics Engineering, Technology and Information Management	800	bird	650	0.9409	-179	0.0401	0.9441	90
+2	141 m^2	0.7054	Games and Playable Media	Applied Mathematics, Games and Playable Media	928	hamster	956	0.6737	-89	0.1654	0.81	339
+1	561 m^2	0.0262	Human Computer Interaction	Biotechnology, Computer Science, Computer Engineering, Computer Game Design	335	dog	425	0.1721	529	0.9884	0.1362	212
+2	588 m^2	0.8517	Computer Science	Games and Playable Media, Robotics Engineering, Technology and Information Management	790	BIRD	975	0.4681	-214	0.3968	0.4665	558
+0	962 m^2	0.7705	Games and Playable Media	Bioengineering, Human Computer Interaction, Bioinformatics, Natural Language Processing	211	guinea pig	205	0.1347	2	0.6448	0.5652	1160
+0	1136 m^2	0.2498	Applied Mathematics	Bioengineering	264	FISH	428	1.0837	510	0.3984	1.1442	625
+1	551 m^2	0.1023	Human Computer Interaction	Biotechnology, Computer Engineering	513	rabbit	679	0.0697	829	1.3881	0.0163	29
+2	353 m^2	1.1574	Robotics Engineering	Applied Mathematics, Technology and Information Management	699	hamster	809	0.7422	-111	0.056	0.5924	262
+1	588 m^2	0.1938	Bioengineering	Robotics Engineering	899	fish	282	0.2006	514	1.4008	-0.1867	413
+0	918 m^2	0.6065	Statistics	Statistics, Computer Game Design	-36	ferret	-111	0.3209	-123	0.1259	0.965	419
+1	233 m^2	0.0304	Computer Game Design	Computer Game Design	482	chicken	529	-0.0893	n/a	0.5536	0.3708	438
+2	208 m^2	0.9526	Computer Science	Bioinformatics, Computational Media, Human Computer Interaction, Electrical Engineering	947	reptile	572	0.9497	259	-0.1701	0.5944	134
+1	742 m^2	0.2696	Bioengineering	Statistics, Biotechnology	315	pig	765	-0.2929	1002	0.9929	0.1991	360
+1	624 m^2	-0.0101	Bioengineering	Robotics Engineering, Games and Playable Media	180	pig	153	0.4568	1251	1.0661	0.0418	383
+2	102 m^2	0.693	Data Science	Games and Playable Media, Robotics Engineering	507	reptile	473	0.6497	396	0.0111	1.0929	-3
+0	1134 m^2	0.8347	Applied Mathematics	Biotechnology, Statistics, Computer Game Design, Computer Science	-337	rat	-64	0.6491	94	0.9237	0.4713	733
+1	467 m^2	0.1215	Data Science	Electrical Engineering, Data Science, Human Computer Interaction, Bioinformatics, Bioengineering	317	cat	314	0.622	1323	0.8811	0.0175	189
+1	1027 m^2	-0.0416	Bioengineering	Computer Engineering, Biotechnology, Statistics	373	dog	739	0.2595	1338	1.215	0.219	635
+1	235 m^2	-0.2233	Bioengineering	Technology and Information Management	475	rabbit	118	-0.1916	1483	1.2031	0.1673	790
+2	29 m^2	0.6413	Games and Playable Media	Computer Engineering, Computer Game Design, Biotechnology, Computer Science	1270	reptile	?	0.9087	127	0.3959	0.6592	-49
+0	1137 m^2	1.0973	Natural Language Processing	Human Computer Interaction, Bioengineering	695	N/A	225	0.4738	77	0.9205	0.9303	1112
+0	1334 m^2	0.6332	Statistics	Electrical Engineering	78	fish	127	0.5332	807	0.9176	0.5888	741
+2	106 m^2	1.0123	Biotechnology	Robotics Engineering	1163	bird	505	0.8826	-156	-0.0163	0.6593	610
+1	503 m^2	-0.0217	Bioinformatics	Statistics, Computer Science, Computer Game Design	349	pig	696	0.3526	767	1.208	0.3333	273
+0	914 m^2	0.3516	Statistics	Natural Language Processing	398	rat	69	0.3594	240	0.5885	0.6465	766
+2	-231 m^2	0.5995	Biotechnology	Applied Mathematics	978	bird	584	0.8776	-96	0.4231	0.6713	-308
+1	592 m^2	0.1525	Electrical Engineering	Computer Engineering, Biotechnology, Computer Game Design	598	pig	516	-0.2341	832	0.6298	0.1981	-331
+0	1166 m^2	0.5886	Applied Mathematics	Bioengineering	154	guinea pig	317	0.3104	679	1.0291	0.6903	592
+2	124 m^2	0.6245	Robotics Engineering	Technology and Information Management, Games and Playable Media	1084	hamster	891	0.8428	483	0.2465	1.0939	138
+1	699 m^2	0.0309	Data Science	Statistics, Biotechnology, Computer Game Design, Computer Science	651	chicken	235	-0.141	1036	0.9747	-0.1548	-233
+1	632 m^2	-0.2062	computer engineering	Biotechnology	338	chicken	520	0.1701	914	0.7648	0.1503	-71
+0	1556 m^2	0.3525	Statistics	Robotics Engineering, Technology and Information Management	-147	fish	84	0.5259	141	0.35	0.9981	977
+2	-147 m^2	0.4507	Applied Mathematics	Technology and Information Management	543	bird	836	0.7777	977	-0.2226	0.8059	-468
+0	1140 m^2	0.5612	Applied Mathematics	Electrical Engineering	364	fish	179	0.2538	-174	0.4195	0.7493	538
+2	308 m^2	0.737	Biotechnology	Technology and Information Management	1209	bird	889	0.7482	575	0.5208	0.5246	721
+2	-252 m^2	0.9055	Games and Playable Media	Robotics Engineering	605	hamster	757	0.46	64	0.5234	0.6276	231
+0	1238 m^2	0.514	applied mathematics	Bioinformatics, Data Science, Electrical Engineering, Natural Language Processing, Bioengineering, Computational Media	12	rat	268	0.2895	426	0.4762	0.9856	399
+2	-242 m^2	0.698	Games and Playable Media	Games and Playable Media, Applied Mathematics, Robotics Engineering	742	hamster	819	0.6903	182	-0.1117	0.6275	-522
+1	792 m^2	-0.012	Computational Media	Computer Science	1	rabbit	453	0.2748	598	1.101	0.0632	543
+1	458 m^2	-0.1906	Computer Engineering	Computer Science	1	chicken	610	0.35	838	0.7145	0.2019	493
+0	1024 m^2	0.1992	Applied Mathematics	Electrical Engineering	25	fish	315	0.3374	535	0.7456	0.7001	778
+1	805 m^2	0.5639	Data Science	Statistics, Computer Game Design, Computer Engineering	549	hamster	749	0.5119	905	0.9066	0.0486	356
+0	833 m^2	0.2002	Natural Language Processing	Natural Language Processing, Bioengineering, Electrical Engineering	372	hamster	73	0.3735	734	0.9786	0.7271	1033
+1	631 m^2	-0.1934	Statistics	Statistics, Computer Game Design	341	rabbit	386	0.1867	1048	1.1274	-0.075	405
+1	161 m^2	n/a	Technology and Information Management	Statistics	509	rabbit	641	0.2647	1211	0.8549	-0.1099	449
+2	360 m^2	0.7779	Biotechnology	Robotics Engineering, Technology and Information Management, Applied Mathematics	467	hamster	951	1.0787	-84	0.1458	1.0603	98
+1	669 m^2	0.0267	Electrical Engineering	Computer Engineering	380	pig	83	0.1449	1634	0.9178	0.3289	-359
+1	697 m^2	-0.0529	Computational Media	COMPUTER SCIENCE	565	cat	405	0.2425	367	0.9325	0.4509	397
+0	1354 m^2	0.3307	Computer Game Design	Applied Mathematics, Robotics Engineering, Games and Playable Media	None	fish	257	0.6319	526	0.1246	0.6945	95
+1	536 m^2	0.2662	Computational Media	Computer Science, Statistics	387	dog	428	0.3378	1467	1.7458	-0.1429	N/A
+2	74 m^2	0.6124	Human Computer Interaction	Technology and Information Management, Applied Mathematics	711	hamster	1065	0.9276	-339	0.1966	0.9033	1580
+0	805 m^2	0.3841	Applied Mathematics	Bioinformatics	-295	rat	183	0.6091	497	0.7838	1.339	984
+0	1051 m^2	-0.0928	Data Science	Bioinformatics, Data Science	0	rat	340	0.1241	-204	0.3923	1.3031	405
+1	956 m^2	-0.6269	Data Science	Computer Game Design, Computer Science	None	pig	628	0.5112	758	1.2049	?	608
+0	830 m^2	0.5496	Applied Mathematics	Electrical Engineering, Human Computer Interaction	-23	FISH	373	0.8144	504	0.7452	0.9364	1041
+2	-163 m^2	0.8874	Biotechnology	Robotics Engineering	849	hamster	1145	0.3893	-42	-0.585	0.6251	258
+0	834 m^2	0.5267	Computer Game Design	Natural Language Processing, Human Computer Interaction, Bioengineering, Bioinformatics	4	guinea pig	-239	0.5012	785	0.376	0.6942	810
+0	685 m^2	0.4193	Applied Mathematics	Data Science, Natural Language Processing	-166	guinea pig	117	0.6361	275	1.1056	0.7993	1029
+0	1120 m^2	0.8127	Data Science	Robotics Engineering	233	fish	335	0.351	1033	0.6315	0.8185	776
+0	742 m^2	0.5225	Computer Game Design	Data Science, Electrical Engineering	-222	rat	212	0.0525	193	0.3313	1.0637	1193
+2	161 m^2	0.0536	Computer Science	Human Computer Interaction, Natural Language Processing, Data Science, Computational Media, Electrical Engineering	1228	reptile	597	1.0544	-460	0.2874	0.9045	176
+1	666 m^2	0.0368	Bioengineering	Computer Science	355	pig	395	-0.0896	859	0.9463	-0.6205	104
+1	662 m^2	0.0096	Games and Playable Media	Computer Engineering	350	dog	750	0.3144	985	0.7624	0.1746	172
+2	375 m^2	0.9805	Robotics Engineering	tECHNOLOGY AND iNFORMATION mANAGEMENT, rOBOTICS eNGINEERING	760	hamster	1356	1.0126	424	0.161	0.8371	561
+1	675 m^2	0.6703	Computer Engineering	Computer Game Design, Biotechnology, Statistics	729	chicken	358	0.0035	943	0.9472	0.2837	165
+0	937 m^2	0.1491	Statistics	Bioinformatics, Computational Media, Bioengineering	268	fish	210	0.6546	577	1.0022	0.7359	887
+2	250 m^2	0.4283	Biotechnology	Robotics Engineering, Games and Playable Media	1300	hamster	802	1.0339	743	-0.3268	0.6023	373
+1	456 m^2	0.0525	Electrical Engineering	Computer Game Design, Computer Engineering	681	pig	147	0.3234	387	0.9406	-0.3889	753
+1	745 m^2	0.1651	Human Computer Interaction	Statistics, Computer Science, Computer Engineering, Biotechnology	649	n/a	613	-0.2898	872	0.9129	0.4536	834
+2	190 m^2	0.5558	Biotechnology	Robotics Engineering, Technology and Information Management, Applied Mathematics	949	bird	889	0.9314	-141	0.05	0.7199	-603
+0	902 m^2	0.5245	Computer Game Design	Applied Mathematics	281	guinea pig	75	0.6279	701	0.6447	0.9661	1157
+1	812 m^2	0.6871	Computational Media	Computer Engineering, Computer Science, Statistics	473	cat	217	-0.2617	736	0.9946	0.0659	942
+2	416 m^2	1.1788	Robotics Engineering	Games and Playable Media	998	reptile	572	1.0743	182	0.1091	0.49	100
+0	NULL	0.1979	Natural Language Processing	Natural Language Processing, Data Science, Electrical Engineering	199	ferret	201	0.2107	294	0.5209	1.0399	971
+1	117 m^2	0.4072	Applied Mathematics	Biotechnology, Computer Science, Computer Engineering, Statistics	542	Reptile	237	-0.0035	923	1.2435	0.2089	-57
+2	516 m^2	1.004	Games and Playable Media	Computer Science	1274	reptile	872	0.5136	186	-0.2027	NULL	54
+0	541 m^2	0.34	Applied Mathematics	Computer Engineering, Computer Science, Biotechnology	278	fish	293	0.563	127	0.6048	0.7901	1132
+1	661 m^2	0.4534	N/A	Computer Engineering, Statistics	608	rabbit	294	0.2699	695	1.2689	-0.0647	661
+1	556 m^2	-0.0926	Bioinformatics	Computer Science, Statistics, Computer Game Design, Biotechnology	647	pig	323	-0.021	669	1.2695	-0.1741	504
+0	943 m^2	0.6122	Applied Mathematics	Bioinformatics, Natural Language Processing, Bioengineering	578	ferret	-193	0.3887	-60	0.5492	1.0465	765
+1	861 m^2	0.4409	Robotics Engineering	Computer Game Design, Computer Engineering, Computer Science, Statistics	794	rabbit	207	n/a	1569	0.6426	0.2057	314
+1	597 m^2	-0.1192	Computational Media	Computer Engineering, Statistics	473	dog	744	-0.0416	1516	0.6841	0.2101	561
+1	421 m^2	0.008	Electrical Engineering	Computer Game Design, Computer Engineering	738	chicken	236	0.1685	1188	0.8826	0.33	622
+1	690 m^2	-0.0701	Computer Engineering	Computer Science, Biotechnology	328	chicken	324	0.0306	1016	0.7681	0.0725	372
+1	218 m^2	0.0377	Technology and Information Management	Natural Language Processing	532	pig	348	0.35	837	0.5619	-0.315	71
+0	598 m^2	0.9469	Computer Game Design	Human Computer Interaction, Bioengineering, Bioinformatics, Computational Media	22	guinea pig	20	0.2301	670	0.3167	1.0988	879
+2	56 m^2	0.8226	Robotics Engineering	Technology and Information Management	1486	reptile	554	1.0099	407	0.2963	0.3621	402
+2	65 m^2	0.4	Games and Playable Media	Games and Playable Media	801	hamster	227	1.1136	248	0.4379	1.1124	-184
+2	188 m^2	0.8007	Biotechnology	Data Science, Computational Media, Bioengineering	671	hamster	761	0.8228	464	0.1303	0.3816	147
+2	52 m^2	0.6026	Games and Playable Media	Robotics Engineering	849	reptile	769	0.8855	-70	0.2933	0.9023	-103
+2	31 m^2	0.6017	Biotechnology	Applied Mathematics	817	hamster	715	0.9721	-216	0.1816	0.581	348
+0	805 m^2	0.4266	Statistics	Data Science, Computational Media, Natural Language Processing	67	guinea pig	136	0.2302	323	0.6171	0.7161	688
+1	388 m^2	0.298	Technology and Information Management	Computer Game Design, Computer Engineering	552	dog	1131	0.0886	1171	1.0276	0.807	555
+0	976 m^2	0.2916	Computer Game Design	Bioinformatics, Bioengineering, Human Computer Interaction	-196	rat	31	0.4975	-194	0.6216	0.9234	1077
+0	1158 m^2	0.6649	Robotics Engineering	Computational Media	-27	ferret	-133	0.4377	836	0.3544	0.518	1149
+0	613 m^2	0.7704	Statistics	Electrical Engineering, Data Science, Natural Language Processing, Bioinformatics	-123	rat	413	0.3974	-80	1.1384	1.2146	1638
+0	630 m^2	0.8575	Applied Mathematics	Natural Language Processing, Data Science, Computational Media, Human Computer Interaction, Bioengineering, Bioinformatics	72	guinea pig	312	0.4753	495	0.5205	0.3178	1262
+1	446 m^2	0.2239	Computer Engineering	Computer Science, Statistics, Biotechnology	783	chicken	85	0.0934	1441	1.1326	0.1893	-32
+0	1046 m^2	0.4805	Natural Language Processing	Human Computer Interaction	109	ferret	364	0.3062	316	0.4556	0.8492	721
+0	1204 m^2	0.2617	Applied Mathematics	Computational Media, Electrical Engineering, Bioengineering, Bioinformatics, Natural Language Processing, Human Computer Interaction	158	ferret	256	0.4496	526	0.6478	0.7844	629
+1	417 m^2	0.4056	Human Computer Interaction	Computer Science, Computer Game Design	821	chicken	841	0.3239	946	0.8623	-0.0862	308
+2	360 m^2	1.3912	Biotechnology	ROBOTICS ENGINEERING, TECHNOLOGY AND INFORMATION MANAGEMENT, GAMES AND PLAYABLE MEDIA	1328	hamster	255	0.9486	20	-0.2591	0.461	279
+1	208 m^2	0.0961	Computer Engineering	Statistics, Computer Science, Computer Game Design, Biotechnology	959	rabbit	313	0.2942	1452	1.1577	-0.4527	863
+0	873 m^2	0.8423	Bioinformatics	Bioengineering, Computational Media, Bioinformatics, Electrical Engineering, Natural Language Processing	-158	ferret	395	0.4615	574	0.6873	0.9986	500
+1	556 m^2	-0.3271	technology and information management	Computer Science, Statistics, Computer Engineering	722	dog	508	0.1039	739	0.7121	0.0209	-223
+1	N/A	0.0085	Computer Engineering	Computer Science, Computer Game Design, Computer Engineering	713	chicken	764	0.0866	1263	0.7655	0.3022	638
+0	1018 m^2	0.4097	Computer Game Design	Technology and Information Management, Robotics Engineering	548	rat	240	0.2644	-36	0.9358	n/a	468
+1	747 m^2	-0.0669	DATA SCIENCE	Statistics, Computer Game Design, Computer Engineering, Biotechnology	594	dog	370	0.022	700	0.7028	0.328	547
+2	84 m^2	0.7096	Games and Playable Media	Games and Playable Media, Applied Mathematics	859	bird		1.2616	-281	-0.1979	0.1767	1
+1	588 m^2	0.1446	Technology and Information Management	Statistics, Biotechnology, Computer Game Design	294	rabbit	100	0.2306	1367	1.3064	0.4533	-48
+0	869 m^2	0.4369	Computer Game Design	Bioinformatics, Data Science, Natural Language Processing, Electrical Engineering, Computational Media	222	rat	90	0.8111	n/a	0.4994	0.459	1163
+1	595 m^2	0.1933	Computational Media	Computer Science, Biotechnology	854	rabbit	123	0.6719	1117	1.0754	0.217	759
+0	1256 m^2	0.0554	Statistics	Bioengineering, Natural Language Processing, Computational Media, Data Science	649	guinea pig	242	-0.0949	196	0.8114	0.8202	1018
+0	847 m^2	0.6519	Human Computer Interaction	electrical engineering, data science, bioinformatics, human computer interaction	229	Ferret	573	0.6114	300	0.6228	0.7161	788
+1	921 m^2	-0.1064	Bioinformatics	Computer Game Design, Computer Engineering, Biotechnology, Computer Science	826	chicken	707	0.1965	815	0.9022	0.1092	513
+2	393 m^2	0.8711	Computer Science	Robotics Engineering, Technology and Information Management	960	reptile	557	0.6649	-459	0.0636	0.1907	39
+0	1103 m^2	0.7076	Statistics	Data Science, Human Computer Interaction, Computational Media, Bioengineering, Bioinformatics, Natural Language Processing	193	ferret	494	0.6952	391	0.9201	0.9911	614
+2	366 m^2	1.1583	Robotics Engineering	Applied Mathematics, Technology and Information Management	1070	bird	589	0.6673	-57	0.0699	0.6012	-415
+2	-63 m^2	0.766	Computer Science	Games and Playable Media, Technology and Information Management	729	hamster	907	0.7501	-78	-0.2797	0.9093	-356
+1	458 m^2	0.1116	Data Science	STATISTICS, COMPUTER GAME DESIGN, COMPUTER ENGINEERING, BIOTECHNOLOGY	276	chicken	261	n/a	721	1.3105	0.15	112
+1	874 m^2	0.1877	Bioengineering	Biotechnology, Computer Engineering, Computer Game Design, Statistics	593	pig	165	-0.0593	1039	0.9108	-0.3518	625
+2	47 m^2	0.7302	Computer Science	Bioinformatics, Computational Media, Electrical Engineering, Human Computer Interaction	1257	reptile	734	0.898	749	0.1078	0.0501	-127
+1	784 m^2	None	Data Science	Biotechnology, Computer Science, Computer Game Design	527	pig	99	0.3184	906	0.5898	0.562	-141
+2	296 m^2	0.5821	Computer Science	Applied Mathematics, Technology and Information Management	919	reptile	845	0.6581	364	0.1075	0.6922	-254
+2	260 m^2	0.558	Robotics Engineering	Games and Playable Media, Robotics Engineering	777	hamster	725	0.6644	-83	None	0.2983	500
+2	300 m^2	1.0508	Games and Playable Media	Robotics Engineering, Games and Playable Media, Technology and Information Management	744	bird	692	0.7963	480	0.1142	0.5532	215
+1	823 m^2	0.1758	Bioengineering	Computer Engineering	525	pig	278	-0.0754	1271	0.8123	-0.033	719
+1	36 m^2	0.1881	Technology and Information Management	Games and Playable Media, Applied Mathematics	493	dog	102	0.2946	759	0.8813	-0.1879	231
+0	1266 m^2	0.0211	Computer Game Design	Electrical Engineering, Human Computer Interaction, Data Science, Bioengineering, Bioinformatics, Computational Media	-37	rat	280	0.2797	376	0.8495	0.9301	325
+2	97 m^2	0.8709	Robotics Engineering	Data Science, Computational Media, Natural Language Processing	993	reptile	711	1.0854	529	0.3109	0.716	421
+1	435 m^2	-0.0953	Technology and Information Management	Computer Game Design, Statistics, Biotechnology	679	ferret	150	0.2432	1450	1.3014	0.3566	852
+0	695 m^2	0.5567	Natural Language Processing	Computational Media, Data Science	344	ferret	260	0.491	812	0.8682	1.2476	964
+1	282 m^2	0.1821	Technology and Information Management	Statistics, Computer Engineering, Computer Science, Biotechnology	712	CHICKEN	544	0.1307	1212	0.6277	-0.1678	325
+1	406 m^2	N/A	Human Computer Interaction	Computer Game Design, Computer Engineering, Computer Science	287	chicken	809	0.3514	614	0.8999	0.1741	336
+1	745 m^2	0.7289	Computer Science	Computer Science	934	pig	487	0.2299	1391	0.8204	0.1364	-705
+1	246 m^2	-0.05	Computer Engineering	Computer Game Design	522	pig	597	0.0997	994	1.0134	-0.0934	-526
+1	734 m^2	0.1625	cOMPUTER eNGINEERING	Computer Engineering, Statistics, Computer Game Design, Biotechnology	698	pig	413	0.0564	758	N/A	0.0865	-149
+0	975 m^2	0.5674	Computer Game Design	Computational Media, Electrical Engineering, Data Science, Natural Language Processing	-82	rat	517	0.8178	378	0.5663	1.0111	514
+0	1105 m^2	0.658	Electrical Engineering	Electrical Engineering	138	bird	491	0.0707	602	0.6488	0.6218	882
+2	393 m^2	0.6498	Biotechnology	Games and Playable Media	1014	bird	749	1.3099	229	0.546	0.3396	-201
+0	545 m^2	0.3701	Statistics	Computational Media, Electrical Engineering, Bioinformatics, Human Computer Interaction, Data Science, Bioengineering	116	ferret	50	0.4669	434	0.8664	1.0939	835
+1	753 m^2	0.1531	Data Science	Computer Game Design, Statistics	685	rabbit	890	0.0624	1143	0.889	0.1229	172
+1	667 m^2	0.1691	Technology and Information Management	Computer Science, Computer Engineering	NULL	pig	382	0.665	1375	1.4231	0.1386	834
+2	14 m^2	0.4198	Robotics Engineering	Games and Playable Media, Applied Mathematics	1025	hamster	831	1.3978	-250	0.2764	0.3321	-19
+0	None	0.4109	Computer Game Design	Data Science, Computational Media, Natural Language Processing, Electrical Engineering, Bioinformatics	263	ferret	309	0.7681	1070	0.9837	1.1248	643
+1	652 m^2	0.0864	Human Computer Interaction	Computer Game Design, Biotechnology, Statistics	588	rabbit	-44	0.0127	945	0.7988	-0.0342	514
+0	1012 m^2	0.0817	Computer Game Design	Electrical Engineering, Human Computer Interaction	304	rat	394	0.8141	494	0.573	0.7057	?
+0	744 m^2	0.8959	Natural Language Processing	Statistics, Biotechnology	123	guinea pig	218	0.3581	591	0.7894	0.9011	389
+2	188 m^2	0.9126	Robotics Engineering	Technology and Information Management, Games and Playable Media, Applied Mathematics	1328	hamster	833	1.2941	174	0.1336	0.4407	-351
+2	-129 m^2	0.9199	Games and Playable Media	Applied Mathematics, Robotics Engineering	661	bird	1073	1.6134	313	0.6226	0.6013	181
+2	180 m^2	1.2075	Games and Playable Media	Human Computer Interaction, Natural Language Processing	833	ferret	1418	1.2771	653	-0.233	0.5878	455
+0	1191 m^2	0.3384	Electrical Engineering	Natural Language Processing, Bioengineering, Bioinformatics, Human Computer Interaction, Data Science	30	ferret	135	0.5352	410	0.9027	0.8564	303
+1	435 m^2	0.2434	Computer Science	Statistics	445	PIG	30	0.276	780	1.0406	0.2033	566
+0	806 m^2	0.4996	Robotics Engineering	Electrical Engineering, Human Computer Interaction	16	rat	36	0.1958	310	0.5786	0.6063	540
+2	205 m^2	0.5758	Games and Playable Media	Technology and Information Management, Robotics Engineering, Games and Playable Media	979	fish	851	0.9901	-38	0.2489	0.5628	-226
+1	430 m^2	0.068	Computational Media	Computer Engineering	478	dog	824	0.5605	957	1.3823	0.1139	242
+1	582 m^2	0.0542	Human Computer Interaction	Computational Media, Natural Language Processing, Bioengineering, Electrical Engineering, Human Computer Interaction, Bioinformatics	495	PIG	116	0.0299	1225	0.3512	-0.0023	754
+0	870 m^2	0.686	Applied Mathematics	Bioinformatics, Data Science, Computational Media	-228	guinea pig	285	0.7646	1171	0.1825	0.5155	489
+0	913 m^2	0.5922	Robotics Engineering	Electrical Engineering	-25	ferret	285	0.5306	935	1.0671	0.81	824
+0	697 m^2	0.1035	Statistics	Electrical Engineering	340	guinea pig	479	0.3825	897	0.5299	0.7232	594
+0	1200 m^2	0.2322	Statistics	Robotics Engineering, Applied Mathematics	229	ferret	48	0.572	173	0.9	0.8646	498
+2	272 m^2	1.0514	Games and Playable Media	Games and Playable Media, Robotics Engineering, Technology and Information Management	964	reptile	1026	1.1053	515	0.0084	0.7045	-42
+0	1036 m^2	0.4871	Computer Game Design	Natural Language Processing, Data Science	421	fish	81	0.9639	478	0.6396	0.6204	878
+0	956 m^2	0.4074	Applied Mathematics	Natural Language Processing, Bioinformatics, Data Science	128	ferret	216	0.4329	294	0.6226	0.858	1313
+2	59 m^2	0.3875	Games and Playable Media	Technology and Information Management, Robotics Engineering, Games and Playable Media	778	fish	782	0.9908	747	0.4481	0.7183	160
+2	128 m^2	0.7135	Computer Science	Robotics Engineering, Games and Playable Media, Technology and Information Management	1199	hamster	307	1.0036	12	0.431	0.5494	331
+2	284 m^2	0.2798	Robotics Engineering	Robotics Engineering	861	bird	457	0.7341	186	0.173	0.7321	328
+2	117 m^2	0.3744	Data Science	Technology and Information Management	1001	bird	585	1.1202	423	0.1054	0.6329	-197
+0	None	0.8595	Natural Language Processing	Electrical Engineering, Computational Media, Natural Language Processing, Bioengineering	-316	guinea pig	35	0.328	-23	0.3096	0.6255	177
+1	433 m^2	0.3859	Computer Engineering	Biotechnology, Computer Game Design, Computer Engineering	322	chicken	448	0.075	936	0.976	-0.0431	318
+0	1177 m^2	0.6903	Applied Mathematics	Games and Playable Media	-97	rat	268	0.549	824	0.5283	0.4191	752
+2	92 m^2	0.7891	?	Games and Playable Media	742	bird	549	1.1685	412	-0.0726	0.3355	172
+2	94 m^2	0.6827	Games and Playable Media	GAMES AND PLAYABLE MEDIA, ROBOTICS ENGINEERING, APPLIED MATHEMATICS	713	reptile	632	0.5896	None	-0.1468	0.9077	643
+0	823 m^2	0.456	Applied Mathematics	Data Science, Bioengineering, Natural Language Processing, Bioinformatics, Electrical Engineering	459	rat	340	0.1015	963	0.1136	0.7877	1227
+0	795 m^2	0.4931	Games and Playable Media	Computational Media, Bioinformatics, Data Science, Human Computer Interaction	30	guinea pig	186	0.8563	594	0.929	1.1815	780
+2	78 m^2	0.7377	Computer Science	Applied Mathematics, Games and Playable Media	689	hamster	785	0.7081	917	0.0614	0.8173	659
+1	666 m^2	0.244	Bioengineering	Computer Science, Computer Engineering, Biotechnology, Computer Game Design	681	chicken	611	-0.4811	1290	0.9733	0.1838	121
+0	579 m^2	0.561	Applied Mathematics	Computational Media, Natural Language Processing	-419	fish	706	0.7445	956	0.5769	0.6777	721
+0	510 m^2	0.3409	Statistics	Natural Language Processing	112	fish	112	0.5707	81	0.7344	0.9914	309
+0	1089 m^2	0.2092	Applied Mathematics	Bioinformatics, Electrical Engineering, Human Computer Interaction, Natural Language Processing	-137	ferret	-221	0.5409	281	0.4917	0.7438	834
+0	1047 m^2	0.7166	Computer Game Design	Data Science, Human Computer Interaction	-227	ferret	-33	0.2595	543	0.569	0.7878	709
+1	754 m^2	0.496	Bioinformatics	Statistics, Biotechnology	521	bird	273	0.1583	771	0.6495	-0.127	793
+0	740 m^2	0.7178	Computer Game Design	Bioengineering, Data Science	137	rat	147	0.5623	287	0.6342	0.5252	808
+0	1205 m^2	0.5844	Natural Language Processing	Data Science, Human Computer Interaction, Electrical Engineering, Natural Language Processing	-56	fish	771	0.5897	357	0.7907	0.4628	301
+0	1128 m^2	0.2267	Statistics	Bioengineering, Electrical Engineering, Bioinformatics, Human Computer Interaction, Computational Media	-165	fish	306	0.6454	763	0.4517	0.6453	460
+1	309 m^2	-0.0441	Electrical Engineering	Computer Science, Computer Game Design, Biotechnology	893	RABBIT	501	0.4324	813	1.2506	-0.1624	364
+1	770 m^2	-0.1744	Computational Media	Applied Mathematics, Technology And Information Management	456	dog	n/a	0.2742	1613	1.0133	-0.1513	546
+1	590 m^2	-0.0905	Electrical Engineering	N/A	399	dog	573	0.3704	978	1.1311	0.1718	311
+2	66 m^2	0.7918	Computer Science	Technology and Information Management, Games and Playable Media, Applied Mathematics	611	bird	706	0.9951	-218	0.0558	0.9716	374
+0	1085 m^2	0.7212	Applied Mathematics	Human Computer Interaction, Bioinformatics, Bioengineering, Electrical Engineering, Natural Language Processing	73	rat	-95	0.3761	222	0.7573	0.6766	656
+1	930 m^2	-0.0099	Technology and Information Management	Computer Engineering, Statistics, Biotechnology	691	chicken	203	0.1504	1131	0.8465	-0.0725	-85
+2	None	0.5472	Games and Playable Media	Technology and Information Management, Applied Mathematics	1061	bird	470	0.9538	-74	-0.3548	0.7101	-7
+0	1123 m^2	0.0512	Natural Language Processing	Bioinformatics, Electrical Engineering	0	ferret	-111	0.3412	865	0.5585	0.4551	903
+2	-105 m^2	0.594	Robotics Engineering	Games and Playable Media, Applied Mathematics, Robotics Engineering	1126	hamster	503	0.6153	-38	0.1267	0.5111	104
+2	-382 m^2	0.3739	Robotics Engineering	Games and Playable Media, Robotics Engineering	814	reptile	292	0.9064	662	-0.1088	0.6498	120
+2	26 m^2	0.7273	Games and Playable Media	Games and Playable Media, Applied Mathematics, Robotics Engineering	627	hamster	1016	1.1529	404	0.1954	0.4241	-142
+1	638 m^2	0.3434	Bioinformatics	Computer Science, Computer Game Design	92	ferret	215	0.4069	1158	0.9648	0.0801	210
+0	964 m^2	0.0579	Natural Language Processing	Electrical Engineering, Computational Media	-7	guinea pig	180	0.2628	156	0.7365	0.9821	608
+2	231 m^2	0.7961	Computational Media	Robotics Engineering, Technology and Information Management	1139	reptile	1218	0.9073	-298	-0.2057	0.8024	201
+2	582 m^2	0.4869	games and playable media	Robotics Engineering	1042	bird	641	0.9653	-42	-0.0117	0.7072	176
+1	891 m^2	-0.202	Human Computer Interaction	Computer Engineering, Computer Science	756	rabbit	200	0.0876	733	1.1481	-0.1104	270
+0	888 m^2	0.8244	nATURAL lANGUAGE pROCESSING	Bioengineering	519	NULL	571	0.4375	308	0.5426	0.9089	1084
+1	472 m^2	0.3613	Computer Engineering	Statistics, Computer Science, Computer Game Design	541	dog	424	0.3124	1307	0.9644	0.1537	141
+1	416 m^2	0.2081	Electrical Engineering	Biotechnology, Computer Game Design, Computer Engineering, Statistics	630	pig	71	0.0772	664	0.5904	0.0007	2
+0	1165 m^2	0.2699	Computer Game Design	Electrical Engineering, Human Computer Interaction, Bioengineering, Computational Media, Bioinformatics	-1	fish	457	0.3695	137	1.0585	0.7519	797
+2	321 m^2	0.7032	Biotechnology	Applied Mathematics, Robotics Engineering, Technology and Information Management	918	hamster	729	0.5172	720	0.1369	0.453	-60
+1	514 m^2	-0.1754	Computer Engineering	Computer Game Design, Computer Science, Biotechnology	607	pig	419	0.1057	1298	1.1435	-0.3605	-473
+0	N/A	-0.0594	Applied Mathematics	Bioengineering, Electrical Engineering, Bioinformatics	416	rat	245	0.558	142	0.6657	0.6002	978
+0	n/a	0.3363	Games and Playable Media	Bioengineering, Bioinformatics, Natural Language Processing, Electrical Engineering, Data Science	46	fish	327	0.0562	745	0.3941	0.7291	1090
+2	223 m^2	0.5887	Games and Playable Media	Robotics Engineering	925	hamster	846	0.974	439	-0.0948	0.1756	348
+0	779 m^2	0.5114	Statistics	Electrical Engineering, Human Computer Interaction	-2	ferret	114	0.2716	219	1.0986	0.5306	875
+0	1205 m^2	0.5942	Applied Mathematics	Electrical Engineering, Bioinformatics, Human Computer Interaction, Computational Media	108	rat	231	0.7333	-56	0.6741	0.8739	436
+0	507 m^2	0.1709	Computer Game Design	Bioinformatics, Natural Language Processing, Electrical Engineering, Human Computer Interaction, Data Science, Computational Media	565	ferret	371	0.0425	-99	0.4399	0.848	1121
+2	50 m^2		Computer Science	Data Science, Bioengineering, Human Computer Interaction, Bioinformatics	1210	bird	1069	0.6892	100	0.2375	0.9898	339
+0	1204 m^2	0.5567	Computer Game Design	Bioinformatics	-237	guinea pig	248	0.4306	-18	1.0164	0.4044	387
+2	339 m^2	0.8314	Games and Playable Media	Robotics Engineering, Technology and Information Management	1056	bird	940	0.6086	516	0.0069	0.1187	517
+2	303 m^2	0.9466	Biotechnology	Games and Playable Media	400	hamster	520	1.2418	291	-0.1091	0.9691	227
+1	683 m^2	0.1906	Computational Media	Computer Game Design	527	chicken	286	0.1635	1161	0.9532	-0.032	306
+1	577 m^2	0.3905	COMPUTER ENGINEERING	Computer Engineering, Computer Science	375	dog	484	0.233	1356	0.9006	0.5003	132
+2	344 m^2	0.8985	Robotics Engineering	Robotics Engineering, Technology and Information Management, Games and Playable Media	977	reptile	738	0.6803	133	-0.4585	0.7828	200
+0	1480 m^2	0.1349	Applied Mathematics	Natural Language Processing	55	rat	79	0.5196	1017	1.0553	1.1021	705
+1	349 m^2	0.1997	Technology and Information Management	Statistics, Computer Science, Computer Engineering, Computer Game Design	631	rabbit	486	0.4734	1558	0.8449	-0.2463	82
+0	845 m^2	0.6552	Computer Game Design	Statistics, Computer Game Design	719	ferret	26	0.5474	598	0.7132	0.7279	811
+1	764 m^2	0.1248	Computational Media	Biotechnology, Computer Science	740	PIG	813	0.0734	1325	0.558	-0.3418	108
+1	775 m^2	0.2176	Bioengineering	Computer Engineering	591	?	615	-0.0998	1390	?	0.2308	297
+2	498 m^2	1.0067	Games and Playable Media	Robotics Engineering, Technology and Information Management	None	hamster	840	0.4687	-365	-0.4128	0.871	1063
+1	379 m^2	-0.1252	Data Science	Computer Game Design, Biotechnology	468	dog	451	-0.1254	1302	1.0229	-0.1238	309
+2	368 m^2	1.0193	Biotechnology	Technology And Information Management, Robotics Engineering	970	hamster	584	1.2477	-55	0.3176	-0.1338	249
+1	841 m^2	0.0637	Electrical Engineering	cOMPUTER gAME dESIGN, cOMPUTER eNGINEERING	65	dog		0.1864	855	1.0668	0.1871	424
+0	897 m^2	0.4305	Statistics	Applied Mathematics	-51	rat	202	0.4254	840	0.4261	0.7414	1112
+0	1343 m^2	0.4398	Natural Language Processing	Computer Science, Computer Game Design, Biotechnology	431	ferret	512	0.2964	1192	0.7334	0.7932	887
+1	577 m^2	0.1265	HUMAN COMPUTER INTERACTION	biotechnology, computer engineering, statistics, computer game design	790	dog	400	0.7435	1181	0.8309	-0.0571	637
+2	-87 m^2	0.5052	Games and Playable Media	Applied Mathematics, Games and Playable Media	906	hamster	681	0.992	-371	0.4387	1.0148	301
+1	744 m^2	-0.1647	Computational Media	Computer Science	268	dog	420	0.1867	1153	0.8031	-0.0697	132
+2	-61 m^2	1.1502	computer science	Games and Playable Media	1157	reptile	728	0.5855	724	0.1088	0.5242	165
+0	979 m^2	0.3852	Applied Mathematics	Natural Language Processing, Data Science, Computational Media, Electrical Engineering, Bioengineering	-29	rat	-66	0.3142	93	0.4751	1.0908	1229
+1	729 m^2	-0.0808	Human Computer Interaction	Games and Playable Media, Technology and Information Management, Applied Mathematics	1003	chicken	170	-0.0321	288	0.9282	-0.1584	153
+1	516 m^2	0.3121	Electrical Engineering	Statistics, Computer Game Design	667	bird	208	0.0399	959	0.9276	-0.0405	415
+2	17 m^2	0.8953	Computer Science	Games and Playable Media, Robotics Engineering, Applied Mathematics	1228	hamster	662	1.1985	756	0.204	0.8263	988
+1	343 m^2	0.2577	Data Science	Statistics	649	dog	-21	0.557	1092	1.2909	0.0171	723
+2	-60 m^2	0.4524	Biotechnology	rOBOTICS eNGINEERING, aPPLIED mATHEMATICS	642	hamster	694	0.7245	-412	-0.1283	0.7606	-51
+0	909 m^2	0.2907	Natural Language Processing	Bioinformatics, Human Computer Interaction	260	rat	553	0.2531	-68	0.7584	0.7474	765
+1	375 m^2	-0.0804	Bioinformatics	Computer Science, Computer Game Design	846	cat	484	0.3198	1046	0.9101	0.1016	607
+2	271 m^2	0.9572	Robotics Engineering	Technology and Information Management, Applied Mathematics, Robotics Engineering	789	bird	740	0.428	260	0.1264	0.677	137
+2	N/A	0.4484	Computer Science	Technology and Information Management	1086	hamster	1072	1.0685	87	0.0301	1.1287	379
+1	553 m^2	0.1381	Bioinformatics	Computer Science	402	cat	23	0.1848	1025	1.331	-0.0308	933
+1	721 m^2	-0.3722	Bioengineering	Computer Game Design, Computer Engineering	450	rabbit	281	0.2278	443	0.79	0.4665	224
+0	1182 m^2	0.323	APPLIED MATHEMATICS	Bioinformatics, Human Computer Interaction, Computational Media	121	rat	509	0.4546	205	0.5778	1.0083	271
+0	1130 m^2	0.3526	Computer Game Design	cOMPUTATIONAL mEDIA, nATURAL lANGUAGE pROCESSING, bIOINFORMATICS, dATA sCIENCE, eLECTRICAL eNGINEERING, bIOENGINEERING	-480	ferret	158	0.5316	293	0.8886	1.1145	587
+2	5 m^2	0.7152	Biotechnology	Applied Mathematics	819	bird	1161	0.36	-255	0.5469	0.6095	?
+0	1354 m^2	0.649	Statistics	Data Science	328	guinea pig	241	0.2046	191	0.3391	0.6158	19
+1	450 m^2	-0.1574	Computational Media	Biotechnology, Computer Game Design, Computer Science	65	rabbit	367	0.4332	877	1.1832	-0.218	496
+2	71 m^2	0.5967	Biotechnology	Computational Media, Data Science, Electrical Engineering	939	hamster	617	1.1369	531	0.0068	0.888	130
+0	874 m^2	0.1637	Computer Game Design	Human Computer Interaction, Bioinformatics, Natural Language Processing, Computational Media	197	ferret	417	0.4009	66	1.1243	0.9636	694
+1	406 m^2	0.1942	Technology and Information Management	Robotics Engineering, Games and Playable Media, Applied Mathematics	170	dog	-82	0.2629	1417	0.9888	0.1482	655
+2	589 m^2	0.7204	Statistics	Robotics Engineering, Technology and Information Management, Games and Playable Media	1179	bird	639	1.1408	-52	0.2812	0.9751	210
+2	308 m^2	0.3436	Games and Playable Media	Applied Mathematics, Robotics Engineering	494	hamster	640	0.8917	413	0.1304	0.7852	171
+0	1247 m^2	0.4184	Computer Game Design	Natural Language Processing, Bioinformatics, Computational Media, Human Computer Interaction, Electrical Engineering, Bioengineering	222	ferret	313	0.341	418	0.4586	0.978	1060
+1	453 m^2	0.1608	Bioengineering	Computer Science, Computer Engineering, Computer Game Design	495	RABBIT	347	0.2552	1155	0.803	0.5085	154
